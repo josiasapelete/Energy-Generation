@@ -1,0 +1,64 @@
+/* ========================hearder======================== */
+*{
+    font-family: 'poppins';
+}
+
+.logo{
+    padding-left: 2rem;
+    width: 100px;
+}
+
+.lng{
+    padding-right: 2rem;
+ }
+
+.fr{
+    width: 1.6rem;
+}
+
+.en{
+    width: 2rem;
+}
+
+/* ======================Section 1=========================== */
+.img{
+    height: 60vh;
+    background-position: center;
+    background-image: url(./image/image4.webp);
+ }
+
+
+.logo1{
+    padding-left: 2rem;
+    width: 5rem;
+}
+.text{
+    display: flex;
+}
+
+.txt{
+    width: 20%;
+}
+/* ======================Section 2======================== */
+.img1{
+    background-image: url(./image/image7.png);
+    background-position: center;
+    height: 60vh;  
+}
+
+/* ====================== Section 3======================= */
+.img2{
+    background-image: url(./image/image9.webp);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+
+}
+/* ======================Section 9======================== */
+.img3{
+    background-image: url(./image/image11.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 60vh ;
+}
+
