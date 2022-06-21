@@ -310,3 +310,35 @@ iframe{
     text-align: center;
     font-size: .7rem;
 }
+
+
+/* Section formation pratique et professionnalisante */
+
+.container-3{
+    background-color: #019FE3;
+    padding: 4rem 10rem 1rem 10rem;
+    color: white;
+}
+
+.container-3 div{
+    margin: 0 4rem;
+    border-radius: 3rem 3rem 0 0;
+    padding: 2rem 2rem 1rem 2rem;
+    background-color: #232D84;
+}
+
+.container-3 div h1{
+    padding-bottom: 1rem;
+    text-align: center;
+    line-height: 3rem;
+    font-size: 3rem;
+}
+
+.container-3 p{
+    text-align: center;
+    font-weight: 300;
+    background-color: #232D84;
+    border-bottom: 1rem solid #EB4F1C;
+    border-radius: 1.5rem 1.5rem 0 0;
+    padding: 2rem;
+}
