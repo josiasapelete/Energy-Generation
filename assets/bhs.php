@@ -1,3 +1,4 @@
+<?php require_once('back/connect.php');?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
