@@ -27,7 +27,7 @@
                 <div class="cont1">
                   
                   <div class="cont2">
-                    <h2>Energyspace</h2>
+                    <h2 class="container">Energyspace</h2>
                   </div>
 
                 </div>
