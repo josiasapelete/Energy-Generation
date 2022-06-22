@@ -20,7 +20,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 offset-md-6 mb-lg-auto ">
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Acceuil</a>
+                <a class="nav-link active" aria-current="page" href="../index.php">Acceuil</a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#"></a>
@@ -37,10 +37,10 @@
                 </ul>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">Energie Space</a>
+                <a class="nav-link" aria-current="page" href="assets/space.php">Energie Space</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">Blog</a>
+                <a class="nav-link" aria-current="page" href="assets/blog.php">Blog</a>
                 </li>
                 
                 
@@ -58,5 +58,6 @@
         
     </nav>
 </header>
+    
 </body>
 </html>

@@ -92,7 +92,7 @@
                       </div>
       
                       <div class=" col-12  col-md-6">
-                        <img id="logo" src="image/Logo.png.webp" alt="">
+                        <img id="logo" src="image/Logo.webp" alt="">
                         <ul>
                           <li>Accueil</li> <br>
                           <li>Business Healthcare school</li> <br>
