@@ -18,6 +18,12 @@
     <title>Business & HealthCare School</title>
 </head>
 <body>
+
+    <!-- Barred e navigation inclue -->
+    <?php
+      include("menu.php");
+    ?>
+    
     <!-- Section image et titre -->
     <section>
         <div>
