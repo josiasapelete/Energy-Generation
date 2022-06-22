@@ -1,0 +1,145 @@
+
+/* ========================hearder======================== */
+*{
+    font-family: 'poppins';
+}
+
+.logo{
+    padding-left: 2rem;
+    width: 100px;
+}
+
+.lng{
+    padding-right: 2rem;
+ }
+
+.fr{
+    width: 1.6rem;
+}
+
+.en{
+    width: 2rem;
+}
+
+/* ======================Section 1=========================== */
+.img{
+    height: 60vh;
+    background-position: center;
+    background-image: url(./image/image4.webp);
+ }
+
+
+.logo1{
+    padding-left: 2rem;
+    width: 5rem;
+}
+.text{
+    display: flex;
+}
+
+.txt{
+    width: 20%;
+}
+/* ======================Section 2======================== */
+.img1{
+    background-image: url(./image/image7.png);
+    background-position: center;
+    height: 60vh;  
+}
+
+/* ====================== Section 3======================= */
+.img2{
+    background-image: url(./image/image9.webp);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+
+}
+/* ======================Section 9======================== */
+.img3{
+    background-image: url(./image/image11.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 60vh ;
+}
+/*=======*/
+
+.contenaire1{
+    height: 80vh;
+    background-image:url(./image/page.jpg);
+    position: relative;
+    border-bottom: 4px solid #232D84;
+    margin-bottom: 10px;
+
+}
+
+.cont2{
+    position: absolute;
+    bottom: 0;
+    z-index: 5;
+    height: 30%;
+    background-color:#232D84;
+    text-align: center;
+    padding: 10px;
+    /* margin-left:auto;
+    margin-right:auto; */
+    color: white; 
+}
+
+.contenaire2{
+    background-color: whitesmoke;
+}
+.contenaire2 h2{
+    background-color:#019FE3;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    
+}
+.deux{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.contenaire3 h2{
+    background-color: #019FE3;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.contenaire3{
+    padding-top: 30px;
+}
+.contenaire3 h2{
+    background-color: #019FE3;
+    color: white;
+}
+
+.contenaire4 h2{
+    background-color:#EB4F1C;
+    color: white;
+    text-align: center; 
+    padding: 15px;
+}
+#logo{
+    height: 50px;
+    width: 80px;
+}
+#footer{
+    background-color:#232D84;
+    color: white;
+    /* display: flex;  */
+    /* gap: 10%; */
+    /* justify-content: center; */
+    border-bottom:4px solid #019FE3;
+
+} 
+
+.end{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
