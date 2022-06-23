@@ -29,7 +29,6 @@
                 </div>
 
               </section>
-
               <section class="contenaire2">
                 <h2>Notre Startup Portfolio</h2>
                 <div class="container">
