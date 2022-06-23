@@ -10,20 +10,20 @@
     <title>Energie Génération</title>
 </head>
 <body>
-<section class="contenaire3">
+</section><section class="contenaire3">
                 <h2 >Ils croient en nous</h2>
                 <div class="container my-3">
                    <div class="row">
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo1.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo2.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo3.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo4.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo5.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo6.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://www.hautsdefrance.fr/la-region-relance-lappel-a-projets-acteurs-de-lenergie-pour-lafrique/"><img class="w-50" src="image/logo1.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://www.engie.com/"><img class="w-50" src="image/logo2.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://www.edf.fr/"><img class="w-50" src="image/logo3.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://francais.dggf.nl/"><img class="w-50" src="image/logo4.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://www.collegedeparis.fr/"><img class="w-50" src="image/logo5.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://www.francophonie.org/"><img class="w-50" src="image/logo6.webp" alt=""></a></div>
                    </div>
                    <div class="row my-5">
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo7.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo8.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://fondation.edf.com/"><img class="w-50" src="image/logo7.webp" alt=""></a></div>
+                    <div class="col-4 col-md-2"><a href="https://education.github.com/schools"><img class="w-50" src="image/logo8.webp" alt=""></a></div>
                     <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo9.webp" alt=""></a></div>
                     <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo10.webp" alt=""></a></div>
                     <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo11.webp" alt=""></a></div>
@@ -103,9 +103,6 @@
                     </div>
                   </div>
                   </div>
-              
-
-
               </section>
               <section  class="end">
                 <p>2020 - Energie Generation - All rights reserved</p>
