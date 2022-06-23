@@ -33,7 +33,7 @@
                     Nos programmes
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="#">Business & HealthCare School</a></li>
+                    <li><a class="dropdown-item" href="assets/bhs.php">Business & HealthCare School</a></li>
                 </ul>
                 </li>
                 <li class="nav-item">

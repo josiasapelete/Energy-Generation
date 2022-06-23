@@ -1,5 +1,3 @@
-<?php require_once('back/connect.php');?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -87,7 +85,8 @@
                         </button>
                       </div>
                 </div>
-              </section>
+              
+
               
 
 
