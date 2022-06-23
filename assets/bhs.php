@@ -1,3 +1,4 @@
+<?php require_once('back/connect.php');?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,6 +19,12 @@
     <title>Business & HealthCare School</title>
 </head>
 <body>
+
+    <!-- Barred e navigation inclue -->
+    <?php
+      include("menu.php");
+    ?>
+    
     <!-- Section image et titre -->
     <section>
         <div>

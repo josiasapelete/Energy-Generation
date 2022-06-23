@@ -75,24 +75,25 @@
                   <div class="container">
                     <div class="row gx-md-5">
                       <div class=" col-12 mt-3 mt-md-0 col-md-6">
-                        <h2>Newsletter</h2>
-                        <p>Recevez nos dernières infos, podcats, conseil</p>
-                        <p>Nom et prénoms:</p>
-                        <input class="form-control" type="text" name="nom">
-                        <P>Email:</P>
-                        <input type="email" class="form-control" name="Email" id="">
-                        <option value="">
-                          <!-- <input type="checkbox" value="" name="lang" id=""> <span class="input-group">Je préfère recevoir les informations en français</span>  -->
-                          <!-- <input type="checkbox" value="" name="lang" id=""> <span class="input-group">Je préfère recevoir les informations en anglais</span> -->
-                        </option>
-                        <br>
-      
-                        <button type="button" class="btn btn-warning">Envoyer</button>
-      
+                        <form action="traitement.php" method="post">
+                          <h2>Newsletter</h2>
+                          <p>Recevez nos dernières infos, podcats, conseil</p>
+                          <p>Nom et prénoms:</p>
+                          <input class="form-control" type="text" name="nom">
+                          <P>Email:</P>
+                          <input type="email" class="form-control" name="Email" id="">
+                            <input type="radio" value="" name="lang" id=""> <span class="input-group">Je préfère recevoir les informations en français</span> 
+                            <input type="radio" value="" name="lang" id=""> <span class="input-group">Je préfère recevoir les informations en anglais</span>
+                          
+                          <br>
+        
+                          <button type="button" name="send" class="btn btn-warning">Envoyer</button>
+
+                      </form>
                       </div>
       
                       <div class=" col-12  col-md-6">
-                        <img id="logo" src="image/Logo.png.webp" alt="">
+                        <img id="logo" src="image/Logo.webp" alt="">
                         <ul>
                           <li>Accueil</li> <br>
                           <li>Business Healthcare school</li> <br>
