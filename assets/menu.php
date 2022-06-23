@@ -12,7 +12,7 @@
 <header>
     <nav class="navbar  navbar-expand-lg bg-light">
         <div class="container-fluid">
-            <a class="w-30  navbar-brand" href="#"><img class="logo" src="image/Logo.webp" alt="Logo">
+            <a class="w-30  navbar-brand" href="./assets/index.php"><img class="logo" src="./assets/image/Logo.webp" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -33,14 +33,14 @@
                     Nos programmes
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="#">Business & HealthCare School</a></li>
+                    <li><a class="dropdown-item" href="./assets/bhs.php">Business & HealthCare School</a></li>
                 </ul>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="assets/space.php">Energie Space</a>
+                <a class="nav-link" aria-current="page" href="./assets/space.php">Energie Space</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="assets/blog.php">Blog</a>
+                <a class="nav-link" aria-current="page" href="./assets/blog.php">Blog</a>
                 </li>
                 
                 
@@ -49,8 +49,8 @@
                 </li>
             </ul>
             <div class="lng">
-                <img src="./image/fr.jpeg" alt="" class="fr">
-                <img src="./image/en.jpeg" alt="" class="en">
+                <img src="./assets/image/fr.jpeg" alt="" class="fr">
+                <img src="./assets/image/en.jpeg" alt="" class="en">
             </div>
             </div>
             

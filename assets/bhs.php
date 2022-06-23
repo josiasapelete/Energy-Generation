@@ -1,4 +1,3 @@
-<?php require_once('back/connect.php');?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +19,8 @@
 </head>
 <body>
 
-    <!-- Barred e navigation inclue -->
+    <!-- Barre de navigation inclue -->
+
     <?php
       include("menu.php");
     ?>
@@ -28,7 +28,7 @@
     <!-- Section image et titre -->
     <section>
         <div>
-            <img src="./image/image1.webp" class="img-1" alt="lead the change">
+            <img src="./assets/image/image1.webp" class="img-1" alt="lead the change">
         </div>
         <div class="title">
             <h1>LEAD THE CHANGE</h1>
@@ -203,7 +203,11 @@
         </div>
 
     </section>
-
+    <section>
+        <?php
+            include("./form.php");
+        ?>
+    </section>
 
 
     <?php

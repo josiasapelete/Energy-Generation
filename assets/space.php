@@ -1,4 +1,3 @@
-<?php require_once('back/connect.php');?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -42,40 +41,40 @@
                 <img src="image/space/img0.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img1.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img1.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img2.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img2.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img3.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img3.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img4.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img4.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img5.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img5.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img6.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img6.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img7.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img7.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img8.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img8.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img9.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img9.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img10.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img10.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img11.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img11.png.webp" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="image/space/img13.png.webp" class="d-block w-100" alt="...">
+                <img src="./assets/image/space/img13.png.webp" class="d-block w-100" alt="...">
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -106,7 +105,9 @@
 
 
     <footer>
-      <?php include("footer.php");?>
+      <?php 
+        include("footer.php");
+      ?>
     </footer>
 
       

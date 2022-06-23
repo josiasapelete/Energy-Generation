@@ -1,5 +1,3 @@
-<?php require_once('back/connect.php');?>
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -46,7 +44,7 @@
 
 
         <?php
-        include("./footer.php");
+            include("./footer.php");
         ?>
 
     </body>

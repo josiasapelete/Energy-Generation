@@ -14,28 +14,28 @@
       <h2 >Ils croient en nous</h2>
       <div class="container my-3">
         <div class="row">
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo1.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo2.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo3.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo4.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo5.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo6.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo1.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo2.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo3.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo4.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo5.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo6.webp" alt=""></a></div>
         </div>
         <div class="row my-5">
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo7.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo8.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo9.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo10.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo11.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo12.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo7.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo8.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo9.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo10.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo11.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo12.webp" alt=""></a></div>
         </div>
         <div class="row">
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo14.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo15.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo16.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo17.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo18.webp" alt=""></a></div>
-        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="image/logo19.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo14.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo15.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo16.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo17.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo18.webp" alt=""></a></div>
+        <div class="col-4 col-md-2"><a href=""><img class="w-50" src="./assets/image/logo19.webp" alt=""></a></div>
         </div>
       </div>
     </section>
