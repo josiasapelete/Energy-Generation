@@ -32,7 +32,7 @@
   
           <div class="row my-5 my-md-0">
             <div class="col-12 col-md-4">
-                <img src="./image/Logo.webp" class=" w-100"  alt="">
+                <img src="./assets/image/logo.webp" class=" w-100"  alt="">
             </div>
   
             <p class="text-lg-start p-3">
@@ -60,9 +60,9 @@
         <div class="img1"></div> <br> <br>
         <div class="container">
           <div class="row  ">
-              <div class="col-12 col-md-6  ">
+              <div class="col-12 col-md-6 ">
                 <div class="row">
-                  <div class="col-12 col-md-4"  ><img class="w-100" src="./image/image6.webp" alt=""></div>
+                  <div class="col-12 col-md-4"  ><img class="w-100" src="./assets/image/image6.webp" alt=""></div>
                   <div class="col-12 col-md-8" >
                     <h1>VISION</h1>
                     <p class="text-lg-start p-3" >
@@ -76,7 +76,7 @@
           
             <div class="col-12 col-md-6  align-items-center p-4 b ">
               <div class="row">
-                <div class="col-12 col-md-4"><img src="./image/image2.webp"  class="img-thumbnail" alt=""></div>
+                <div class="col-12 col-md-4"><img src="./assets/image/image2.webp"  class="img-thumbnail" alt=""></div>
 
                 <div class="col-12 col-md-8 text-lg-start " >
                   <h1>MISSION</h1>
@@ -100,7 +100,7 @@
           </div> <br>
               <div class="container ">
                   <div class="row">
-                      <div class="col-12 col-md-6 "  ><img class="w-100" src="./image/image8.jpg" alt=""></div>
+                      <div class="col-12 col-md-6 "  ><img class="w-100" src="./assets/image/image8.jpg" alt=""></div>
                       <div class="col-12 col-md-6">
                           <p class="text-lg-start p-3" >
                               Au sein de nos Business Schools, théorie et pratique se rencontrent pour transformer des idées novatrices en entreprises viables. <br> <br>
@@ -114,7 +114,7 @@
                   </div>
               </div> <br> <br>
               
-                <div class=" container" ><img class="w-100" src="image/image5.webp" alt=""></div>
+                <div class=" container" ><img class="w-100" src="./assets/image/image5.webp" alt=""></div>
       </section> <br> <br>
       <section>
           <div class="text-center " id="forma" ><h1>La formation entrepreneuriat <br> solaire</h1></div> 
@@ -123,7 +123,7 @@
       <section>
           <div class="container">
               <div class="row">
-                  <div class=" col-12 col-md-6"> <img src="image/image10.jpeg" class=" w-100" alt=""></div>
+                  <div class=" col-12 col-md-6"> <img src="./assets/image/image10.jpeg" class=" w-100" alt=""></div>
                   <div class="col-12 col-md-6">
                         <p class="m-3">  Parce que le solaire représente une véritable opportunité de création d'emplois pour les jeunes tout en participant au développement socio-économique des zones rurales africaines notamment, Energy Generation a créé un programme de dix mois pour former puis accompagner des entrepreneurs du solaire. <br> <br>
                             Quel que soit votre niveau d'études actuel, la Formation Entrepreneuriat Solaire vous propose un programme sur mesure pour vous garantir une formation répondant parfaitement à vos besoins et à vos projets d'avenir. <br>
