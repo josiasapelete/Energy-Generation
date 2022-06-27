@@ -53,7 +53,7 @@
                     <div class="row">
                         <div class="col-12 col-md-6"><img class="w-100 " src="<?= $ligne['photo']; ?>" alt="Image du post"></div>
                         <div class="col-12 col-md-6">
-                            <div class="Posthead">
+                            <div class="Posthead d-flex">
                                 <div id="profil" class="profil mx-3">
                                     <img src="<?= $ligne['photoAd']; ?> " alt="Photo de l'admin">
                                 </div>
