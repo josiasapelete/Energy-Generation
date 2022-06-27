@@ -1,3 +1,4 @@
+<?php require_once('connect.php') ;?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,25 +28,26 @@
                 <form class="d-flex" role="search">
                     <input class="form-control me-2" type="search" placeholder="Search"  name="search" aria-label="Search">
                     <button class="btn btn-outline-success" type="submit" name="searchBtn">Search</button>
-                    <!-- Code pour Effectuer les recherches -->
-                    <?php
-           
-
-                if (isset($_POST['searchBt'])){
-                    $search= $_POST['search'];
-                    $reqSelect= "select * from articles where titre like '%$search%' ";
-                } else {
-                    $reqSelect= "select * from articles";
-                }
-                $resultat= mysqli_query($conn, $reqSelect);
-                $nbr= mysqli_num_rows($resultat);
-                echo "<p><b>".$nbr."</b> Resultats de votre recherche...</p>";
-                while( $ligne= mysqli_fetch_assoc($resultat)){
-             ?>
+                   
                 </form>
             </div>
             </div>
         </div>
+         <!-- Code pour Effectuer les recherches -->
+         <?php
+           
+
+           if (isset($_POST['searchBt'])){
+               $search= $_POST['search'];
+               $reqSelect= "select * from articles where titre like '%$search%' ";
+           } else {
+               $reqSelect= "select * from articles";
+           }
+           $resultat= mysqli_query($conn, $reqSelect);
+           $nbr= mysqli_num_rows($resultat);
+           echo "<p><b>".$nbr."</b> Resultats de votre recherche...</p>";
+           while( $ligne= mysqli_fetch_assoc($resultat)){
+        ?>
         <!-- Partie dynamique pour afficher les articles -->
         <div class="container">
                     <div class="row">
