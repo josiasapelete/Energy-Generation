@@ -21,7 +21,7 @@
     width: 2rem;
 }
 
-/* ======================Section 1=========================== */
+/* ======================premiere image=========================== */
 .img{
     height: 60vh;
     background-position: center;
@@ -29,6 +29,82 @@
     border-bottom: solid .25rem #232D84;
     border-top: solid .25rem #232D84 ;
  }
+
+/* =======================QUI SOMMES NOUS======================== */
+
+.col0{
+    color: #232D84;
+    font-size: 50px;
+}
+.col4{
+    color: #019FE3;
+}
+.col5{
+    color: #019FE3;
+}
+.col6{
+    color: #019FE3;
+}
+.col7{
+    color: #019FE3;
+}
+/* ========================DEUXIEME IMAGE========================= */
+
+.img1{
+    background-image: url(./image/image7.png);
+    background-position: center;
+    height: 60vh; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-bottom: solid .25rem #EB4F1C;;
+    border-top: solid .25rem #EB4F1C;;
+}
+
+/* =======================VISION========================== */
+
+.colV{
+    color: #232D84;
+}
+#img6{
+    border-bottom: solid .5rem #FAB032;
+}
+
+/* ======================MISSION=========================== */
+#img2{
+    border-bottom: solid .5rem #FAB032;
+}
+.colM{
+    color: #232D84;
+}
+
+/* ======================NOS PROGRAMES=================== */
+#program{
+    background-color: #019FE3;
+    height: 80px;
+    color: #FFFFFF;
+    font-size: 80px;
+}
+/* ======================CONTAINER 1====================== */
+#img8{
+    border-bottom:solid .50rem #019FE3;
+}
+.cola{
+    color: #019FE3;
+}
+.colb{
+    color: #019FE3;
+}
+.colc{
+    color: #019FE3;
+}
+
+/* ===================CONTAINER 2================ */
+
+#forma{
+    background-color:  #FAB032;
+    color:  #FFFFFF;
+    font-size: 80px;
+}
 
 
 .logo1{
@@ -42,30 +118,11 @@
 .txt{
     width: 20%;
 }
-#program{
-    background-color: #019FE3;
-    height: 80px;
-    color: #FFFFFF;
-    font-size: 80px;
-}
+
 /* ======================Section 2======================== */
-.img1{
-    background-image: url(./image/image7.png);
-    background-position: center;
-    height: 60vh; 
-    background-repeat: no-repeat; 
-    background-size: cover;
-    border-bottom: solid .25rem #EB4F1C;;
-    border-top: solid .25rem #EB4F1C;;
-}
-#img8{
-    border-bottom:solid .50rem #019FE3;
-}
-#forma{
-    background-color:  #FAB032;
-    color:  #FFFFFF;
-    font-size: 80px;
-}
+
+
+
 .col1{
     color: #019FE3;
 }
@@ -81,42 +138,15 @@
 .colA{
     color: #019FE3;
 }
-.colc{
-    color: #019FE3;
-}
-.colb{
-    color: #019FE3;
-}
-.cola{
-    color: #019FE3;
-}
-.col4{
-    color: #019FE3;
-}
-.col5{
-    color: #019FE3;
-}
-.col6{
-    color: #019FE3;
-}
-.col7{
-    color: #019FE3;
-}
-.col0{
-    color: #232D84;
-    font-size: 50px;
-}
-.colV{
-    color: #232D84;
-}
-.colM{
-    color: #232D84;
-}
+
+
+
+
+
+
 
 /* ====================== Section 3======================= */
-#img2{
-    border-bottom: solid .5rem #FAB032;;
-}
+
 /* ======================Section 9======================== */
 .img3{
     background-image: url(./image/image11.jpeg);
@@ -132,9 +162,7 @@
     color:  #FFFFFF;
 }
 
-#img6{
-    border-bottom: solid .5rem #FAB032;
-}
+
 /*=======*/
 
 .contenaire1{
