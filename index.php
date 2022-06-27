@@ -72,7 +72,7 @@
     <main>
 
       <section>
-        <h1 class="text-center mt-3">Qui sommes-nous?</h1> <br> <br>
+        <h1 class="text-center mt-3"><span class="col0" >Qui sommes-nous?</span></h1> <br> <br>
 
         <div class="container ">
   
@@ -83,16 +83,16 @@
   
             <div class="col-12 col-md-8">
             <p class="text-lg-start p-3">
-              Energie Generation est une organisation panafricaine qui encourage les 
+              Energie Generation est <span class="col4" >une organisation panafricaine</span> qui encourage les 
               jeunes Africains à relever les défis les plus pressants de leur génération 
               (énergie, agriculture, santé, etc.) à travers. <br> <br>
 
               Energie Generation vise à soutenir et à promouvoir les innovations technologies
               et entrepreneuriales afin d'identifier, de developper et de diffusser largement
-              les solutions pratiques <made in Africa>>. <br> <br>
+              les solutions pratiques <span class="col5" >made in Africa</span>. <br> <br>
                   
-              Mais avant tout, Energie Generation est une plate-forme centrée sur l'humain
-              qui offre aux individus des possibilités de libérer et d'exprimer toute leur créativité.
+              Mais avant tout, Energie Generation est une <span class="col6" >plate-forme centrée sur l'humain</span>
+              qui offre aux individus des possibilités de libérer et d'exprimer toute leur <span class="col7" >créativité</span>.
             </p> 
             </div>
             
@@ -151,8 +151,8 @@
                       <div class="col-12 col-md-6 " ><img class="w-100" src="./assets/image/image8.jpg" id="img8" alt=""></div>
                       <div class="col-12 col-md-6 fs-5">
                           <p class="text-lg-start p-3" >
-                              Au sein de nos Business Schools, théorie et pratique se rencontrent pour transformer des idées novatrices en entreprises viables. <br> <br>
-                              En tant qu'étudiant porteur de projet, vous suivrez une formation diplômante en entrepreneuriat et aurez l’occasion de bénéficier 
+                              Au sein de nos Business Schools, <span class="cola" >héorie et pratique se rencontrent</span> pour transformer des idées novatrices en entreprises viables. <br> <br>
+                              En tant qu'étudiant porteur de projet, vous suivrez une <span class="colb" >formation diplômante en entrepreneuriat</span> et aurez l’occasion de bénéficier 
                               de l’expérience pratique des professionnels issus d'entreprises leader mondiales de leur secteur. <br> <br>
                               Au sein de nos écoles, les porteurs de projet bénéficient des installations du laboratoire pour 
                               développer leur prototype, ainsi que d’un <span class="colc" >accompagnement personnalisé</span> pour structurer
