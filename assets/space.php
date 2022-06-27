@@ -38,7 +38,7 @@
                 </ul>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">Energie Space</a>
+                <a class="nav-link" aria-current="page" href="#"><button type="button" class="btn btn-primary">Energy space</button></a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link" aria-current="page" href="blog.php">Blog</a>
