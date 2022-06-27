@@ -63,7 +63,7 @@ if (!isset($_GET['id']) or !is_numeric($_GET['id'])) {
             <div class="col-12 my-3 col-md-6">
                 <div class=" d-flex">
                     <div id="profil" class="profil mx-3">
-                        <img src="<?= $ligne['photoAd']; ?> " alt="">
+                        <img src="<?= $ligne['photoAd']; ?> " alt="Photo de l'admin">
                     </div>
                     <div class="info">
                         <b><?= $ligne['admin']; ?> </b>
@@ -91,6 +91,55 @@ if (!isset($_GET['id']) or !is_numeric($_GET['id'])) {
             <p><?= $ligne['content']; ?> </p>
             <h3></h3>
         </div>
+    </div>
+    <div class="container">
+
+
+        <?php
+
+        if (isset($succes)) {
+            echo $succes;
+        }
+        if (!empty($errors)) : ?>
+            <?php foreach ($errors as $error) : ?>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="alert alert-danger"><?= $error; ?></p>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        <?php endif; ?>
+        <div class="row">
+            <div class="col-md-6">
+                <!-- Partie pour commentaire  -->
+                <form action="article.php?id=<?= $ligne['id']; ?>" method="post">
+                    <p>
+                        <label for="auteur">Pseudo</label> <br>
+                        <input class="form-control" type="text" name="auteur" value="<?php if (isset($auteur)) echo $auteur; ?>" id="auteur">
+                    </p>
+                    <p><label for="comment">commentaire:</label><br>
+                        <textarea name="comment" id="comment" cols="30" rows="8" class="form-control"><?php if (isset($comment)) echo $comment; ?></textarea>
+                    </p>
+                    <button class="btn btn-success" type="submit">Envoyer</button>
+                </form>
+            </div>
+        </div>
+        <h2>Commentaires :</h2>
+        <!-- Code pour afficher les commentaires -->
+        <?php
+        $req = "SELECT * FROM commentaires WHERE articleId=$id";
+        $resultat = mysqli_query($conn, $req);
+        while ($ligne = mysqli_fetch_assoc($resultat)) {
+
+        ?>
+            <p>
+                <b><?= $ligne['autor']; ?> </b>
+                <time><?= $ligne['date']; ?> </time>
+            </p>
+            <p><?= $ligne['comment']; ?> </p>
+
+        <?php }; ?>
     </div>
 </body>
 
