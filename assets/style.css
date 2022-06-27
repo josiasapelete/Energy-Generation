@@ -46,6 +46,7 @@
     background-color: #019FE3;
     height: 80px;
     color: #FFFFFF;
+    font-size: 80px;
 }
 /* ======================Section 2======================== */
 .img1{
@@ -63,6 +64,7 @@
 #forma{
     background-color:  #FAB032;
     color:  #FFFFFF;
+    font-size: 80px;
 }
 .col1{
     color: #019FE3;
@@ -101,7 +103,14 @@
     color: #019FE3;
 }
 .col0{
-    color: #232D84;;
+    color: #232D84;
+    font-size: 50px;
+}
+.colV{
+    color: #232D84;
+}
+.colM{
+    color: #232D84;
 }
 
 /* ====================== Section 3======================= */

@@ -27,7 +27,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 offset-md-6 mb-lg-auto">
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Acceuil</a>
+                <a class="nav-link active" aria-current="page" href="#"><button type="button" class="btn btn-primary">Acceuil</button></a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#"></a>
@@ -112,7 +112,7 @@
                 <div class="row">
                   <div class="col-12 col-md-6"   ><img class="w-100" src="./assets/image/image6.webp" id="img6"alt=""></div>
                   <div class="col-12 col-md-6" >
-                    <h1>VISION</h1>
+                    <h1><span class="colV"  >VISION</span></h1>
                     <p class="text-lg-start p-3" >
                       Permettre l'émergence d'une nouvelle génération africaine en mesure de relever le défi de la dignité humaine sur le continent africain et au-delà.
                     </p>
@@ -127,7 +127,7 @@
                 <div class="col-12 col-md-6"><img src="./assets/image/image2.webp"  class="img-thumbnail" id="img2" alt=""></div>
 
                 <div class="col-12 col-md-6 text-lg-start " >
-                  <h1>MISSION</h1>
+                  <h1><span class="colM"  >MISSION</span></h1>
                   <p class="text-lg-start p-3" >
                     Révolutionner l'accès à l'éducation, à l'accompagnement et au financement, en construisant un écosystème entrepreneurial solide où les jeunes africains peuvent prospérer et développer des entreprises hors du commun.
                   </p>
