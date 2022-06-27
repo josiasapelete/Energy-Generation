@@ -26,6 +26,8 @@
     height: 60vh;
     background-position: center;
     background-image: url(./image/image4.webp);
+    border-bottom: solid .25rem #232D84;
+    border-top: solid .25rem #232D84 ;
  }
 
 
@@ -40,27 +42,68 @@
 .txt{
     width: 20%;
 }
+#program{
+    background-color: #019FE3;
+    height: 80px;
+    color: #FFFFFF;
+}
 /* ======================Section 2======================== */
 .img1{
     background-image: url(./image/image7.png);
     background-position: center;
-    height: 60vh;  
+    height: 60vh; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    border-bottom: solid .25rem #EB4F1C;;
+    border-top: solid .25rem #EB4F1C;;
+}
+#img8{
+    border-bottom:solid .50rem #019FE3;
+}
+#forma{
+    background-color:  #FAB032;
+    color:  #FFFFFF;
+}
+.col1{
+    color: #019FE3;
+}
+.col2{
+    color: #019FE3;
+}
+.col3{
+    color: #019FE3;
+}
+.colB{
+    color: #019FE3;
+}
+.colA{
+    color: #019FE3;
+}
+.colc{
+    color: #019FE3;
 }
 
 /* ====================== Section 3======================= */
-.img2{
-    background-image: url(./image/image9.webp);
-    background-position: center;
-    background-size: cover;
-    height: 60vh;
-
+#img2{
+    border-bottom: solid .5rem #FAB032;;
 }
 /* ======================Section 9======================== */
 .img3{
     background-image: url(./image/image11.jpeg);
     background-position: center;
     background-size: cover;
+    height: 70vh;
+
     
+    
+}
+#energi{
+    background-color: #EB4F1C;
+    color:  #FFFFFF;
+}
+
+#img6{
+    border-bottom: solid .5rem #FAB032;
 }
 /*=======*/
 
