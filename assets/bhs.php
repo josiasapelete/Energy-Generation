@@ -214,6 +214,26 @@
                 </div>
             </section>
 
+            <!--================== SECTION formation professionalisante ==================-->
+            <section class="bg-info text-light py-5">
+                <div class="container text-center">
+                    <div class="row justify-content-center">
+                        <h1 style="background-color: #232D84; border-radius: 50px 50px 0 0; padding: 50px; margin: 0;" class="col-md-6 fw-bolder overflow-auto">
+                            Une formation pratique et professionnalisante
+                        </h1>
+                    </div>
+                </div>
+                    <div class="container">
+                        <h6 style="background-color: #232D84; border-radius: 50px 50px 0 0; border-bottom: 20px solid #EB4F1C;" class="fw-lighter p-5 text-center">
+                            Chaque année, Energy Generation a l'honneur de recevoir des professeurs et des formateurs expérimentés mais aussi des intervenants venant des entreprises leaders mondiales du secteur de l’énergie telles que ENGIE, Schneider Electric ou encore EDF.  
+                            <br> <br>
+                            Passionnés par la problématique du développement socio-économique en Afrique, l'entreprenariat et l'innovation et grâce à leur volonté de transmettre leur savoir, ils garantissent à notre École un corps enseignant de niveau international, à même de former les leaders de l’Afrique de demain.
+                            <br> <br>
+                            Aussi bien à travers des cours magistraux que les travaux pratiques et dirigés, sans oublier l’accompagnement personnalisé pour le développement de votre solution technique, notre équipe pédagogique sera omniprésente pour vous accompagner tout au long de votre parcours et sur tous les aspects de votre projet.
+                        </h6>
+                    </div>
+            </section>
+
         </main>
 
         <footer>
