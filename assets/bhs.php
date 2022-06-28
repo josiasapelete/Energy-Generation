@@ -147,7 +147,7 @@
 
             <!--================== SECTION la business school ==================-->    
             <section style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
-                <img src="./santee.jpg" alt="Photo santé" class="w-100 pb-4">
+                <img src="./image/sante.jpg" alt="Photo santé" style="height: 500px;" class="w-100 pb-4">
                 <div class="container text-center text-light pb-3">
                     <h2 class="fw-bold pb-3">La <span style="color: #EB4F1C;">
                         Business & Healthcare School</span> vous forme pour entreprendre dans le domaine de la santé et du bien-être en Afrique.
@@ -347,7 +347,9 @@
         </main>
 
         <footer>
-
+            <?php
+                include('footer.php')
+            ?>
         </footer>
     </body>
 </html>
