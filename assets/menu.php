@@ -10,7 +10,7 @@
 </head>
 <body>
 <header>
-    <nav class="navbar  navbar-expand-lg bg-light">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg bg-light">
         <div class="container-fluid">
             <a class="w-30  navbar-brand" href="#"><img class="logo" src="image/Logo.webp" alt="Logo">
             </a>
@@ -43,7 +43,7 @@
                 <a class="nav-link" aria-current="page" href="#">À propos</a>
                 </li>
             </ul>
-            <div class="lng">
+            <div class="lng d-flex">
                 <img src="./image/fr.jpeg" alt="" class="fr">
                 <img src="./image/en.jpeg" alt="" class="en">
             </div>

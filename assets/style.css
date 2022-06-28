@@ -4,6 +4,8 @@
     font-family: 'poppins';
 }
 
+/* navbar */
+
 .logo{
     padding-left: 2rem;
     width: 100px;
@@ -11,6 +13,11 @@
 
 .lng{
     padding-right: 2rem;
+ }
+ #navbar{
+    /* position:fixed; */
+    /* top: 0;
+    left: 0; */
  }
 
 .fr{
