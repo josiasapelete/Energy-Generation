@@ -10,106 +10,113 @@
     <title>Energie Génération</title>
 </head>
 <body>
-<footer>
-     <section class="contenaire3">
-                <h2 >Ils croient en nous</h2>
-                <div class="container my-3">
-                   <div class="row">
-                    <div class="col-4 col-md-2"><a href="https://www.hautsdefrance.fr/la-region-relance-lappel-a-projets-acteurs-de-lenergie-pour-lafrique/"><img class="w-50" src="image/logo1.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.engie.com/"><img class="w-50" src="image/logo2.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.edf.fr/"><img class="w-50" src="image/logo3.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://francais.dggf.nl/"><img class="w-50" src="image/logo4.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.collegedeparis.fr/"><img class="w-50" src="image/logo5.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.francophonie.org/"><img class="w-50" src="image/logo6.webp" alt=""></a></div>
-                   </div>
-                   <div class="row my-5">
-                    <div class="col-4 col-md-2"><a href="https://fondation.edf.com/"><img class="w-50" src="image/logo7.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://education.github.com/schools"><img class="w-50" src="image/logo8.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://gruene-buergerenergie.org/fr/sengager/challenge-call/"><img class="w-50" src="image/logo9.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.ifdd.francophonie.org/"><img class="w-50" src="image/logo10.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.africinnov.com/fr"><img class="w-50" src="image/logo11.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://tg.ambafrance.org/Lancement-des-projets-de-la-societe-civile-laureats-du-fonds-PISCCA-2021"><img class="w-50" src="image/logo12.webp" alt=""></a></div>
-                   </div>
-                   <div class="row">
-                    <div class="col-4 col-md-2"><a href="http://www.saber-abrec.org/"><img class="w-50" src="image/logo14.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.initiative-france.fr/"><img class="w-50" src="image/logo15.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://numerique.gouv.tg/"><img class="w-50" src="image/logo16.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://d-lab.mit.edu/"><img class="w-50" src="image/logo17.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.boad.org/presentation/"><img class="w-50" src="image/logo18.webp" alt=""></a></div>
-                    <div class="col-4 col-md-2"><a href="https://www.se.com/fr/fr/about-us/sustainability/foundation/"><img class="w-50" src="image/logo19.webp" alt=""></a></div>
-                   </div>
-                    
-                </div>
-              </section>
 
-              <section class="contenaire4">
-                <h2>Ils parlent de nous</h2>
-                <div class="">
-                  <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <img src="image/logos/log1.png.png" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="image/logos/log2.png.png" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="image/logos/log3.png.jpg" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="image/logos/log3.png.png" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item ">
-                        <img src="image/logos/log4.png.png" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="image/logos/log5.png.png" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="image/logos/log6.png.jpg" class="d-block w-100" alt="...">
-                      </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span>
-                    </button>
-                  </div>
+  <footer>
 
-                </div>
+    <!-- ========== SECTION ils croient en nous ============-->
+    <section class="contenaire3 py-5">
+      <h2 >Ils croient en nous</h2>
+      <div class="container my-5">
+        <div class="row">
+          <div class="col-4 col-md-2"><a href="https://www.hautsdefrance.fr/la-region-relance-lappel-a-projets-acteurs-de-lenergie-pour-lafrique/"><img class="w-50" src="image/logo1.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.engie.com/"><img class="w-50" src="image/logo2.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.edf.fr/"><img class="w-50" src="image/logo3.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://francais.dggf.nl/"><img class="w-50" src="image/logo4.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.collegedeparis.fr/"><img class="w-50" src="image/logo5.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.francophonie.org/"><img class="w-50" src="image/logo6.webp" alt=""></a></div>
+        </div>
+        <div class="row my-5">
+          <div class="col-4 col-md-2"><a href="https://fondation.edf.com/"><img class="w-50" src="image/logo7.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://education.github.com/schools"><img class="w-50" src="image/logo8.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://gruene-buergerenergie.org/fr/sengager/challenge-call/"><img class="w-50" src="image/logo9.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.ifdd.francophonie.org/"><img class="w-50" src="image/logo10.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.africinnov.com/fr"><img class="w-50" src="image/logo11.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://tg.ambafrance.org/Lancement-des-projets-de-la-societe-civile-laureats-du-fonds-PISCCA-2021"><img class="w-50" src="image/logo12.webp" alt=""></a></div>
+        </div>
+        <div class="row">
+          <div class="col-4 col-md-2"><a href="http://www.saber-abrec.org/"><img class="w-50" src="image/logo14.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.initiative-france.fr/"><img class="w-50" src="image/logo15.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://numerique.gouv.tg/"><img class="w-50" src="image/logo16.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://d-lab.mit.edu/"><img class="w-50" src="image/logo17.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.boad.org/presentation/"><img class="w-50" src="image/logo18.webp" alt=""></a></div>
+          <div class="col-4 col-md-2"><a href="https://www.se.com/fr/fr/about-us/sustainability/foundation/"><img class="w-50" src="image/logo19.webp" alt=""></a></div>
+        </div>
+      </div>
+    </section>
 
-              </section>
-              <section class="">
-                
-                <div class="container-fluid pt-3" id="footer">
-                  <div class="container">
-                    <div class="row gx-md-5">
-                      <div class=" col-12 mt-3 mt-md-0 col-md-6">
-                        <?php include('newsletter.php');?>
-                      </div>
+
+    <!-- =============== SECTION ils parlent de nous ===============-->
+    <section class="contenaire4">
+      <h2>Ils parlent de nous</h2>
+      <div class="">
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="image/logos/log1.png.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="image/logos/log2.png.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="image/logos/log3.png.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="image/logos/log3.png.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item ">
+              <img src="image/logos/log4.png.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="image/logos/log5.png.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="image/logos/log6.png.jpg" class="d-block w-100" alt="...">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+
+      </div>
+
+    </section>
+    <section class="">
       
-                      <div class=" col-12  col-md-6">
-                        <img id="logo" src="image/Logo.webp" alt="">
-                        <ul>
-                          <li>Accueil</li> <br>
-                          <li>Business Healthcare school</li> <br>
-                          <li>Energy Space</li>
-                          <li>Blog</li>
-                        </ul>
-      
-                      </div>
-                    </div>
-                  </div>
-                  </div>
-              </section>
-              <section  class="end">
-                <p>2020 - Energie Generation - All rights reserved</p>
-              </section>
+      <div class="container-fluid py-5" id="footer">
+        <div class="container">
+          <div class="row gx-md-5">
 
-        </section>
-     </footer>
+            <!-- =============== Inclusion de la page newsletter =================-->
+            <div class=" col-12 mt-3 mt-md-0 col-md-6">
+              <?php include('newsletter.php');?>
+            </div>
+
+            <div class=" col-12  col-md-6">
+              <img id="logo" src="image/Logo.webp" alt="">
+              <ul>
+                <li>Accueil</li> <br>
+                <li>Business Healthcare school</li> <br>
+                <li>Energy Space</li>
+                <li>Blog</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== SECTION copyright ==============-->
+    <section  class="end">
+      <p>2020 - Energie Generation - All rights reserved</p>
+    </section>
+
+    </section>
+  </footer>
 </body>
 </html>
