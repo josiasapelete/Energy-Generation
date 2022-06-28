@@ -128,7 +128,7 @@ if (!isset($_GET['id']) or !is_numeric($_GET['id'])) {
         <h2>Commentaires :</h2>
         <!-- Code pour afficher les commentaires -->
         <?php
-        $req = "SELECT * FROM commentaires WHERE articleId=$id";
+        $req = "SELECT * FROM commentaires WHERE articleId=$id ORDER BY id DESC";
         $resultat = mysqli_query($conn, $req);
         while ($ligne = mysqli_fetch_assoc($resultat)) {
 

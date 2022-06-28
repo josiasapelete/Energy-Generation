@@ -13,7 +13,7 @@
 
     <!-- Link CSS -->
     <link rel="stylesheet" href="./style.css">
-    <title>Document</title>
+    <title>Energy Generation</title>
 </head>
 
 <body>
@@ -21,10 +21,12 @@
         include('menu.php');
     ?>
 
-
     <div class="container">
         <!-- la barre de recherche -->
-        <div class="container">
+    <br><br><br>
+    <br><br><br>
+
+        <div class="container ">
             <div class="row">
             <div class="col-12 col-md-6 ">
                 <p>Nos articles</p>
@@ -48,11 +50,11 @@
                $search= $_POST['search'];
                $reqSelect= "select * from articles where titre like '%$search%' ";
            } else {
-               $reqSelect= "select * from articles";
+               $reqSelect= "select * from articles ORDER BY id DESC";
            }
            $resultat= mysqli_query($conn, $reqSelect);
            $nbr= mysqli_num_rows($resultat);
-           echo "<p><b>".$nbr."</b> Resultats de votre recherche...</p>";
+           echo "<br> <p><b>".$nbr."</b> Resultats de votre recherche...</p>";
            while( $ligne= mysqli_fetch_assoc($resultat)){
         ?>
         <!-- Partie dynamique pour afficher les articles -->

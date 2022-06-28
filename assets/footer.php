@@ -93,11 +93,11 @@
           <div class="row gx-md-5">
 
             <!-- =============== Inclusion de la page newsletter =================-->
-            <div class=" col-12 mt-3 mt-md-0 col-md-6">
+            <div class=" col-12 my-5 my-md-0 col-md-6">
               <?php include('newsletter.php');?>
             </div>
 
-            <div class=" col-12  col-md-6">
+            <div class=" col-12 mt-5 mt-md-0 col-md-6">
               <img id="logo" src="image/Logo.webp" alt="">
               <ul>
                 <li>Accueil</li> <br>

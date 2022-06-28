@@ -48,13 +48,13 @@
                 <span class="visually-hidden">Next</span>
             </button>
         </div>
-    </div> br
+    </div> 
     <div class="container" > 
               <div class="text-center mb-0 bac"  >
                     <h1 class="text-light" >PARTICIPEZ AU SUCCÈS DE NOS ENTREPRENEUR.E.S</h1>
               </div>
                 <div>
-                    <p class="text-center p-5 fs-5 " >Chez Energy Generation, un mentor apporte un regard critique, challenge et donne des conseils bienveillants à un.e entrepreneur.e ou une équipe d’entrepreneur.e.s sur leur projet d’entreprise. Il leur transmet de façon proactive son expérience et son savoir-être de dirigeant.e ou d’expert.e. Il peut être amené, dans la mesure du possible, à mettre en œuvre les moyens dont il dispose (contacts, réseau, ressources…) pour accompagner au mieux le développement de la start up. Le mentor n’a en aucun cas un pouvoir de décision dans la direction de la start up. L’activité de mentorat n’est pas rémunérée.
+                    <p class=" p-5 fs-5 " >Chez Energy Generation, un mentor apporte un regard critique, challenge et donne des conseils bienveillants à un.e entrepreneur.e ou une équipe d’entrepreneur.e.s sur leur projet d’entreprise. Il leur transmet de façon proactive son expérience et son savoir-être de dirigeant.e ou d’expert.e. Il peut être amené, dans la mesure du possible, à mettre en œuvre les moyens dont il dispose (contacts, réseau, ressources…) pour accompagner au mieux le développement de la start up. Le mentor n’a en aucun cas un pouvoir de décision dans la direction de la start up. L’activité de mentorat n’est pas rémunérée.
 ​                    </p>
                 </div>
                 <div class="text-center mb-0 bac">
