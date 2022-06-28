@@ -19,8 +19,12 @@
         <title>bhs</title>
     </head>
     <body>
+        
+        <!--================== Header ==================-->
         <header>
-
+            <?php
+                include('menu.php')
+            ?>
         </header>
 
         <main>
@@ -28,7 +32,7 @@
         </main>
 
         <footer>
-            
+
         </footer>
     </body>
 </html>
