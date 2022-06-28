@@ -48,7 +48,35 @@
                 <span class="visually-hidden">Next</span>
             </button>
         </div>
-    </div>
+    </div> br
+    <div class="container" > 
+              <div class="text-center mb-0 bac"  >
+                    <h1 class="text-light" >PARTICIPEZ AU SUCCÈS DE NOS ENTREPRENEUR.E.S</h1>
+              </div>
+                <div>
+                    <p class="text-center p-5 fs-5 " >Chez Energy Generation, un mentor apporte un regard critique, challenge et donne des conseils bienveillants à un.e entrepreneur.e ou une équipe d’entrepreneur.e.s sur leur projet d’entreprise. Il leur transmet de façon proactive son expérience et son savoir-être de dirigeant.e ou d’expert.e. Il peut être amené, dans la mesure du possible, à mettre en œuvre les moyens dont il dispose (contacts, réseau, ressources…) pour accompagner au mieux le développement de la start up. Le mentor n’a en aucun cas un pouvoir de décision dans la direction de la start up. L’activité de mentorat n’est pas rémunérée.
+​                    </p>
+                </div>
+                <div class="text-center mb-0 bac">
+                    <h1 class="text-light" >EN SAVOIR PLUS SUR LE ROLE DE MENTOR</h1>
+                </div> <br>
+                <div class="container" > 
+                     <div class="text-center mb-0 bac  " >
+                      <h1 class="text-light" > DEVENEZ MENTOR : 
+                           transmettez votre expertise !
+                      </h1>
+                     </div> <br> <br>
+                     <div>
+                         <p class="text-center p-3 fs-5  " > Les mentors sont des personnes volontaires, enthousiastes, et dotées de capacités d’écoute, de dialogue et de créativité. Leur rôle est de bâtir une relation de confiance avec les entrepreneur.e.s.
+                             Pour être mentor, vous devez :
+                             Avoir au moins 5 années d’expérience professionnelle ou une expérience entrepreneuriale probante
+                             Être à l'écoute, enthousiaste et avoir envie de partager vos compétences et vos expériences
+                             Être disponible pour une séance de travail au moins 1 fois par mois minimum avec l’entrepreneur.e que vous mentorez et ce, pour une période de 6 mois minimum
+                              NB : L’activité de mentorat n’est pas rémunérée.
+                          </p>
+                     </div>
+                </div>
+        </div>
     <div class="container-fluid">
         <h2    class="text-center bac p-5">Nos Mentors</h2>
         <div class="container">
@@ -72,6 +100,7 @@
                 </button>
             </div>
         </div>
+        
         <footer>
             <?php include('footer.php'); ?>
         </footer>
