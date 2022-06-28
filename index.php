@@ -48,10 +48,10 @@
                 <li class="nav-item">
                 <a class="nav-link" aria-current="page" href="assets/mentor.php">Devenir Mentor</a>
                 </li>
-                <div class="lng d-flex">
+                <!-- <div class="lng d-flex">
                   <img src="./assets/image/fr.jpeg" alt="" class="fr">
                   <img src="./assets/image/en.jpeg" alt="" class="en">
-                </div>
+                </div> -->
               </ul>
             </div>
             
