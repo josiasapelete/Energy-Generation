@@ -19,7 +19,7 @@
         <title>bhs</title>
     </head>
     <body>
-        
+
         <!--================== Header ==================-->
         <header>
             <?php
@@ -27,7 +27,22 @@
             ?>
         </header>
 
+        
+
         <main>
+
+            <!--================== SECTION Entête lead the change ==================-->
+            <img src="./image/image1.webp" class="w-100 mb-3" alt="lead the change">
+
+            <section class="py-5" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
+                <div class="container text-center text-light py-4">
+                    <h1 class=" fw-bold fs-1" >LEAD THE CHANGE</h1>
+                    <h3 class="fs-4">Business & HealthCare School</h3>
+                    <h4 class="fs-5">International bachelor and NBA programs</h4>
+                    <hr class="h-25">
+                    <button type="button" class="btn btn-info text-light fw-normal"> Postulez maintenant</button>
+                </div>
+            </section>
 
         </main>
 
