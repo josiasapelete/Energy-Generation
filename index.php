@@ -61,12 +61,11 @@
         
     </nav>
 </header>
-    <div class="img"></div> 
     
-    <br>
-
-    <main>
-
+    <main>    
+         <div class="img"></div> 
+         <br>
+    
       <section>
         <h1 class="text-center mt-3"><span class="col0" >Qui sommes-nous?</span></h1> <br> <br>
 
@@ -183,7 +182,7 @@
           </div>
       </section> <br>
       <section>
-          <div class="text-center mt-3" id="energi" >
+          <div class="text-center mb-0" id="energi" >
                 <h1>L'ENERGY SPACE <BR> -INCUBATEUR & SEED FOUND-</h1>
           </div>
           <div>

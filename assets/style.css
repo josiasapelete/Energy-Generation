@@ -21,7 +21,7 @@
     width: 2rem;
 }
 
-/* ======================premiere image=========================== */
+/* ====================== MAIN/premiere image=========================== */
 .img{
     height: 60vh;
     background-position: center;
@@ -48,7 +48,7 @@
 .col7{
     color: #019FE3;
 }
-/* ========================DEUXIEME IMAGE========================= */
+/* ========================MAIN/ DEUXIEME IMAGE========================= */
 
 .img1{
     background-image: url(./image/image7.png);
@@ -60,7 +60,7 @@
     border-top: solid .25rem #EB4F1C;;
 }
 
-/* =======================VISION========================== */
+/* ======================= SECTION VISION========================== */
 
 .colV{
     color: #232D84;
@@ -69,7 +69,7 @@
     border-bottom: solid .5rem #FAB032;
 }
 
-/* ======================MISSION=========================== */
+/* ======================SECTION MISSION=========================== */
 #img2{
     border-bottom: solid .5rem #FAB032;
 }
@@ -84,7 +84,7 @@
     color: #FFFFFF;
     font-size: 80px;
 }
-/* ======================CONTAINER 1====================== */
+/* ======================CONTAINER ====================== */
 #img8{
     border-bottom:solid .50rem #019FE3;
 }
@@ -101,7 +101,7 @@
     background-color: #232D84;
 }
 
-/* ===================CONTAINER 2================ */
+/* ===================CONTAINER ================ */
 
 #forma{
     background-color:  #FAB032;
@@ -109,11 +109,28 @@
     font-size: 80px;
 }
 
+/* ============================CONTAIRE ================ */
 
-.logo1{
-    padding-left: 2rem;
-    width: 5rem;
+.colA{
+    color: #019FE3;
 }
+.colB{
+    color: #019FE3;
+}
+
+/* ============================ENERGY SPACE=============== */
+#energi{
+    background-color: #EB4F1C;
+    color:  #FFFFFF;
+}
+.img3{
+    background-image: url(./image/image11.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
+
+/* ============================CONTAINER ================ */
 .text{
     display: flex;
 }
@@ -121,10 +138,6 @@
 .txt{
     width: 20%;
 }
-
-/* ======================Section 2======================== */
-
-
 
 .col1{
     color: #019FE3;
@@ -135,36 +148,6 @@
 .col3{
     color: #019FE3;
 }
-.colB{
-    color: #019FE3;
-}
-.colA{
-    color: #019FE3;
-}
-
-
-
-
-
-
-
-/* ====================== Section 3======================= */
-
-/* ======================Section 9======================== */
-.img3{
-    background-image: url(./image/image11.jpeg);
-    background-position: center;
-    background-size: cover;
-    height: 70vh;
-
-    
-    
-}
-#energi{
-    background-color: #EB4F1C;
-    color:  #FFFFFF;
-}
-
 
 /*=======*/
 
