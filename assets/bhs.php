@@ -234,6 +234,116 @@
                     </div>
             </section>
 
+
+            <!--================== SECTION des intervenant.e.s ==================-->
+            <section class="py-4 text-light" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
+                <div class="container text-center">
+                    <div class="row justify-content-center">
+                        <h1 style="background-color: #EB4F1C; padding: 30px;" class="col-md-8 fw-bolder mb-4">
+                            Nos intervenant.e.s
+                        </h1>
+                    </div>
+                </div>
+                <div class="container">
+
+                    <!--================== PREMIERE LIGNE ==================-->
+                    <div class="row justify-content-center gap-3 pb-3">
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--================== DEUXIEME LIGNE ==================-->
+                    <div class="row justify-content-center gap-3 pb-3">
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--================== TROISIEME LIGNE ==================-->
+                    <div class="row justify-content-center gap-3 pb-3">
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--================== QUATRIEME LIGNE ==================-->
+                    <div class="row justify-content-center">
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">passoir</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         </main>
 
         <footer>
