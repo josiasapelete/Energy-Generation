@@ -27,7 +27,7 @@
             ?>
         </header>
 
-        
+
 
         <main>
 
@@ -42,6 +42,41 @@
                     <hr class="h-25">
                     <button type="button" class="btn btn-info text-light fw-normal"> Postulez maintenant</button>
                 </div>
+            </section>
+
+
+            <!--================== SECTION c'est du délire ==================-->
+            <section class="py-5" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
+                <div class="container text-center text-light">
+                    <h2 class="fw-bold">"C'est du délire ! Il est temps que ça change."</h2>
+                    <h4 class="fw-normal fs-5">Astria Fataki, Présidente et Fondatrice d'Energy Generation</h4>
+                </div>
+
+                <div class="container text-light pt-5">
+                    <div class="row gy-4 gy-md-0">
+                        <div class="col-12 col-md-6">
+                            <iframe src="https://www.youtube.com/embed/1TfATY6ezII?autoplay=1&mute=1" class="w-100" style="height: 400px; border-bottom: 20px #EB4F1C solid;"></iframe>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <h2 class="fw-bold">Le saviez-vous ?</h2>
+                            <p class="fw-lighter">Aujourd'hui, plus de 600 millions de personnes n'ont pas accès à l'énergie en Afrique, une personne sur 5 souffre encore de la faim, l'espérance de vie en Afrique est 14 années plus courte que la moyenne mondiale et 51% des jeunes au chômage à travers le monde sont africains.
+                                <br>
+                                <br>
+                                <span class="fw-bold"> C'EST DU DÉLIRE ! Il est temps que ça change. </span>
+                                <br>
+                                <br>
+                                Derrière chaque défi se cache une opportunité, alors prenons notre destin en main !
+                                <br>
+                                <br>
+                                Tu rêves de créer ton propre emploi tout en participant au développement de ton pays ?
+                                <br>
+                                <br>
+                                La Business & Healthcare School forme les leaders de l'Afrique de demain dans les domaines de la santé et du bien-être, de l'innovation technologique et de l'entrepreneuriat.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
             </section>
 
         </main>
