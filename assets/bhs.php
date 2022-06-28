@@ -250,7 +250,7 @@
                     <!--================== Cadre des intervenants ==================-->
                     <div class="row justify-content-center gap-3 pb-3">
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/1.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
+                            <img src="./image/team/1.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Epiphanie AGBEVAN Responsable Academique</p>
@@ -258,7 +258,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/2.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
+                            <img src="./image/team/2.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Ismael TANKO Representant National</p>
@@ -266,7 +266,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/3.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
+                            <img src="./image/team/3.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Joans FOLY Responsable Recrutement</p>
@@ -274,7 +274,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/4.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
+                            <img src="./image/team/4.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Lucie BEAURAIN responsable entrepreneuriat</p>
@@ -282,7 +282,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/5.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
+                            <img src="./image/team/5.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Matteo CARAYOL Responsable Innovation</p>
@@ -290,7 +290,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/6.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
+                            <img src="./image/team/6.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Odjouman ALLAGBE Responsable Communication</p>
@@ -298,7 +298,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/7.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
+                            <img src="./image/team/7.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Pascal ATEYO Responsable Technique</p>
@@ -306,7 +306,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/8.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
+                            <img src="./image/team/8.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Pascaline HOUNOU Responsable administrative et Comptable</p>
@@ -314,7 +314,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/9.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
+                            <img src="./image/team/9.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">PAul CAIRNS Directeur Technique</p>
@@ -322,7 +322,7 @@
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="./team/10.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
+                            <img src="./image/team/10.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Staff EG Astria fataki Fondatrice Presidente</p>
