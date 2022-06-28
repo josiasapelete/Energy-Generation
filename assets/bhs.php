@@ -236,107 +236,96 @@
 
 
             <!--================== SECTION des intervenant.e.s ==================-->
-            <section class="py-4 text-light" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
+            <section class="py-4" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
                 <div class="container text-center">
                     <div class="row justify-content-center">
-                        <h1 style="background-color: #EB4F1C; padding: 30px;" class="col-md-8 fw-bolder mb-4">
+                        <h1 style="background-color: #EB4F1C; padding: 30px;" class="col-md-8 fw-bolder mb-4 text-light">
                             Nos intervenant.e.s
                         </h1>
                     </div>
                 </div>
+
                 <div class="container">
 
-                    <!--================== PREMIERE LIGNE ==================-->
+                    <!--================== Cadre des intervenants ==================-->
                     <div class="row justify-content-center gap-3 pb-3">
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/1.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Epiphanie AGBEVAN Responsable Academique</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/2.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Ismael TANKO Representant National</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/3.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--================== DEUXIEME LIGNE ==================-->
-                    <div class="row justify-content-center gap-3 pb-3">
-                        <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Joans FOLY Responsable Recrutement</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/4.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Lucie BEAURAIN responsable entrepreneuriat</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/5.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--================== TROISIEME LIGNE ==================-->
-                    <div class="row justify-content-center gap-3 pb-3">
-                        <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Matteo CARAYOL Responsable Innovation</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/6.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Odjouman ALLAGBE Responsable Communication</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/7.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Pascal ATEYO Responsable Technique</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
-                    </div>
-
-                    <!--================== QUATRIEME LIGNE ==================-->
-                    <div class="row justify-content-center">
                         <div class="card col-md-3" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
+                            <img src="./image/team/8.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
                                 <h5 class="card-title">Nom</h5>
-                                <p class="card-text">passoir</p>
+                                <p class="card-text">Pascaline HOUNOU Responsable administrative et Comptable</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="./image/team/9.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">PAul CAIRNS Directeur Technique</p>
+                                <a href="#" class="btn btn-primary">Voir profil</a>
+                            </div>
+                        </div>
+                        <div class="card col-md-3" style="width: 18rem;">
+                            <img src="./image/team/10.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
+                            <div class="card-body">
+                                <h5 class="card-title">Nom</h5>
+                                <p class="card-text">Staff EG Astria fataki Fondatrice Presidente</p>
                                 <a href="#" class="btn btn-primary">Voir profil</a>
                             </div>
                         </div>
@@ -350,6 +339,10 @@
             <?php
                 include('footer.php')
             ?>
+
+
+            <!-- JavaScript Bundle with Popper -->
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
         </footer>
     </body>
 </html>
