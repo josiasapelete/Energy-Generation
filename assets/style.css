@@ -156,7 +156,42 @@
     color: #019FE3;
 }
 
-/*=======*/
+.colB{
+    color: #019FE3;
+}
+.colA{
+    color: #019FE3;
+}
+.bac{
+    background-color: #019FE3;
+
+}
+#carouselExampleControls .carousel-inner .carousel-item img{
+    height: 300px;
+}
+
+
+
+
+
+/* ====================== Section 3======================= */
+
+/* ======================Section 9======================== */
+.img3{
+    background-image: url(./image/image11.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+
+    
+    
+}
+#energi{
+    background-color: #EB4F1C;
+    color:  #FFFFFF;
+}
+
+
 
 .contenaire1{
     height: 80vh;

@@ -59,7 +59,7 @@
                       <div class="carousel-item">
                         <img src="image/logos/log3.png.png" class="d-block w-100" alt="...">
                       </div>
-                      <div class="carousel-item active">
+                      <div class="carousel-item ">
                         <img src="image/logos/log4.png.png" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">

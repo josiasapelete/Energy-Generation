@@ -18,7 +18,7 @@
   <body>
     
   <header>
-    <nav class="navbar fixed-top navbar-expand-lg bg-light">
+    <nav class="navbar fixed-top navbar-expand-lg bg-light"> 
         <div class="container-fluid">
             <a class="w-30  navbar-brand" href="#"><img class="logo" src="./assets/image/Logo.webp" alt="Logo">
             </a>
@@ -46,7 +46,7 @@
                 <a class="nav-link" aria-current="page" href="assets/blog.php">Blog</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">À propos</a>
+                <a class="nav-link" aria-current="page" href="assets/mentor.php">Devenir Mentor</a>
                 </li>
                 <div class="lng d-flex">
                   <img src="./assets/image/fr.jpeg" alt="" class="fr">
@@ -246,7 +246,7 @@
                         <div class="carousel-item">
                           <img src="assets/image/logos/log3.png.jpg" class="d-block w-100" alt="...">
                         </div>
-                        <div class="carousel-item active">
+                        <div class="carousel-item">
                           <img src="assets/image/logos/log4.png.png" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
