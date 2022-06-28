@@ -78,7 +78,7 @@
                 </div>
 
             </section>
-            
+
 
             <!--================== SECTION devenir entrepreneur ==================-->
             <section class="py-4" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
@@ -140,6 +140,76 @@
                                 grande échelle de ton projet à travers l'Energy Generation Seed Fund.
                             </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <!--================== SECTION la business school ==================-->    
+            <section style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
+                <img src="./santee.jpg" alt="Photo santé" class="w-100 pb-4">
+                <div class="container text-center text-light pb-3">
+                    <h2 class="fw-bold pb-3">La <span style="color: #EB4F1C;">
+                        Business & Healthcare School</span> vous forme pour entreprendre dans le domaine de la santé et du bien-être en Afrique.
+                    </h2>
+
+                    <h6 class="fw-light">
+                        Quel que soit votre niveau d'études actuel, la Business & Healthcare School vous propose un programme de formation adapté et conçu pour vous accompagner au niveau supérieur.
+                        <br> <br>
+                        Nos programmes sont dispensés en français sur notre campus à Lomé, Togo et en anglais sur notre campus à Accra, Ghana.
+                    </h6>
+                </div>
+                
+                <!--================== BACHACELOR II ==================-->
+                <div class="container">
+                    <div class="text-light col-md-4 text-center">
+                        <h1 style="background-color: #EB4F1C; border-radius: 0 0 20px 0;" class="fw-bold">BACHELOR II</h1>
+                    </div>
+                    <div class="container text-light col-12 py-3" style="background-color: #EB4F1C;">
+                        <h1 class="fw-bold fs-2">Intitulé de la certification :</h1>
+                        <a href="" class="text-white"><h5> Gestionnaire Administration des Ventes  (1)</h5></a>
+                        <div class="text-light col-md-3">
+                            <button type="button" class="btn btn-light mt-3">Brochure Bachelor II</button>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <!--================== BACHELOR III ==================-->
+                <div class="container">
+                    <div class="text-light col-md-4 text-center">
+                        <h1 style="border-radius: 0 0 20px 0;" class="bg-primary fw-bold">BACHELOR III</h1>
+                    </div>
+                    <div class="container text-light col-12 py-3 bg-primary">
+                        <h1 class="fw-bold fs-2">Intitulé de la certification :</h1>
+                        <a href="" class="text-white"><h5> Gestionnaire Administration des Ventes  (1)</h5></a>
+                        <div class="text-light col-md-3">
+                            <button type="button" class="btn btn-light mt-3">Brochure Bachelor III</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <br>
+
+                <!--================== MBA ==================-->
+                <div class="container">
+                    <div class="text-light col-md-4 text-center">
+                        <h1 style="border-radius: 0 0 20px 0;" class="bg-primary fw-bold">MBA</h1>
+                    </div>
+                    <div class="container text-light col-12 py-3 bg-primary">
+                        <h1 class="fw-bold fs-2">Intitulé de la certification :</h1>
+                        <a href="" class="text-white"><h5> Gestionnaire Administration des Ventes  (1)</h5></a>
+                        <div class="text-light col-md-3">
+                            <button type="button" class="btn btn-light mt-3">Brochure MBA</button>
+                        </div>
+                    </div>
+
+                    <div class="row py-5 text-light">
+                        <h6 class="text-center fw-lighter fs-6">
+                            (1) Certification enregistrée au Répertoire National des Certifications Professionnelles (RNCP) par Arrêté du 23 février 2017 au Journal Officiel du 03 mars 2017
+                            (2) Certification enregistrée au Répertoire National des Certifications Professionnelles (RNCP) par Arrêté du 07 juillet 2017 au Journal Officiel du 19 juillet 2017
+                        </h6>
                     </div>
                 </div>
             </section>
