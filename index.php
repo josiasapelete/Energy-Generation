@@ -7,19 +7,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ================================ LIEN FONT POPPINS ========================= -->
+
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">    
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- ================================= LIEN FONT BOOTSTRAP ====================== -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
+    <!-- ==================================   LIEN ASSETS/STYLE.CSS ==============================-->
     <link rel="stylesheet" href="assets/style.css">
+
+    <!-- ================================= TITRE DU DOCUMENT  =========================== -->
     <title>Energie Génération</title>
 
   </head>
 
   <body>
-    
+    <!-- ==================================  NAVBAR    ====================================== -->
   <header>
     <nav class="navbar fixed-top navbar-expand-lg bg-light"> 
         <div class="container-fluid">
+          
             <a class="w-30  navbar-brand" href="#"><img class="logo" src="./assets/image/Logo.webp" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,23 +59,23 @@
                 <li class="nav-item">
                 <a class="nav-link" aria-current="page" href="assets/mentor.php">Devenir Mentor</a>
                 </li>
-                <!-- <div class="lng d-flex">
-                  <img src="./assets/image/fr.jpeg" alt="" class="fr">
-                  <img src="./assets/image/en.jpeg" alt="" class="en">
-                </div> -->
               </ul>
             </div>
             
+        
         </div>
         
     </nav>
 </header>
-    
+      <!-- =================================    MAIN   ==================================================== -->
     <main>    
          <div class="img"></div> 
          <br>
     
       <section>
+
+        <!--======================================   SECTION QUI SOMMES-NOUS    ==================================  -->
+
         <h1 class="text-center mt-3"><span class="col0" >Qui sommes-nous?</span></h1> <br> <br>
 
         <div class="container ">
@@ -75,7 +86,7 @@
             </div>
   
             <div class="col-12 col-md-8">
-            <p class="text-lg-start p-3">
+            <p class="text-lg-start p-3 fs-5 ">
               Energie Generation est <span class="col4" >une organisation panafricaine</span> qui encourage les 
               jeunes Africains à relever les défis les plus pressants de leur génération 
               (énergie, agriculture, santé, etc.) à travers. <br> <br>
@@ -96,7 +107,7 @@
         </div>
       </section>
 
-
+         <!-- =========================================   SECTION VISION/MISSION    ================================================= -->
       <section>
         <div class="img1"></div> <br> <br>
         <div class="container">
@@ -106,7 +117,7 @@
                   <div class="col-12 col-md-6"   ><img class="w-100" src="./assets/image/image6.webp" id="img6"alt=""></div>
                   <div class="col-12 col-md-6" >
                     <h1><span class="colV"  >VISION</span></h1>
-                    <p class="text-lg-start p-3" >
+                    <p class="text-lg-start p-3 fs-5 " >
                       Permettre l'émergence d'une nouvelle génération africaine en mesure de relever le défi de la dignité humaine sur le continent africain et au-delà.
                     </p>
                   </div> 
@@ -121,7 +132,7 @@
 
                 <div class="col-12 col-md-6 text-lg-start " >
                   <h1><span class="colM"  >MISSION</span></h1>
-                  <p class="text-lg-start p-3" >
+                  <p class="text-lg-start p-3 fs-5 " >
                     Révolutionner l'accès à l'éducation, à l'accompagnement et au financement, en construisant un écosystème entrepreneurial solide où les jeunes africains peuvent prospérer et développer des entreprises hors du commun.
                   </p>
                 </div>
@@ -133,8 +144,9 @@
         </div>
         
       </section> 
-      
       <br>
+
+      <!-- =============================================================    SECTION NOS PROGRAMMES     ================================================== -->
       <section>
           <div id="program">
               <h1 class="text-center mt-3" >Nos programmes</h1>
@@ -163,8 +175,9 @@
                     </div>
                 </div>
       </section> <br> <br>
+          <!-- =====================================================    SECTION FORMATION ENTREPRENARIAT      ============================================ -->
       <section>
-          <div class="text-center " id="forma" ><h1>La formation entrepreneuriat <br> solaire</h1></div> 
+          <div class="text-center " id="forma" ><h1>La formation entreprenariat <br> solaire</h1></div> 
           <div class="img2"></div>
       </section> <br> <br>
       <section>
@@ -172,21 +185,22 @@
               <div class="row">
                   <div class=" col-12 col-md-6"  > <img src="./assets/image/image10.jpeg" class=" w-100" style="border-bottom: solid 1rem #FAB032;" alt=""></div>
                   <div class="col-12 col-md-6">
-                        <p class="m-3">  Parce que le solaire représente <span class="colA" >une véritable opportunité de création d'emplois pour les jeunes </span> tout en participant au développement socio-économique des zones rurales africaines notamment, Energy Generation a créé un programme de dix mois pour former puis accompagner des entrepreneurs du solaire. <br> <br>
+                        <p class="m-3 fs-5 "  >  Parce que le solaire représente <span class="colA" >une véritable opportunité de création d'emplois pour les jeunes </span> tout en participant au développement socio-économique des zones rurales africaines notamment, Energy Generation a créé un programme de dix mois pour former puis accompagner des entrepreneurs du solaire. <br> <br>
                             Quel que soit votre niveau d'études actuel, la Formation Entrepreneuriat Solaire vous propose un <span class="colB" >programme sur mesure</span> pour vous garantir une formation répondant parfaitement à vos besoins et à vos projets d'avenir. <br>
                         </p>
                   </div>
               </div>
           </div>
       </section> <br>
+       <!-- ==========================================================    SECTION ENRGY SPACE        ======================================================= -->
       <section>
-          <div class="text-center mb-0" id="energi" >
+          <div class="text-center mb-0" id="energi">
                 <h1>L'ENERGY SPACE <BR> -INCUBATEUR & SEED FOUND-</h1>
           </div>
           <div>
               <div class="img3"></div><br>
               <div class="container"  >
-                  <p class="text-center p-3" >L’Energy Generation Incubator et le Co-working Space accueillent <br>
+                  <p class="text-center p-3 fs-4" >L’Energy Generation Incubator et le Co-working Space accueillent <br>
       
                       <span class="col1" >des start-ups prometteuses</span> dans le domaine de l'énergie, mais pas seulement. <br> <br>
                       Les services d'incubation incluent un coaching personnalisé, avec formation et mentorat, ainsi <br> qu’un <span class="col2">soutien dans les activités quotidiennes et les défis rencontrés</span>. <br> <br>
