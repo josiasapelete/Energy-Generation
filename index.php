@@ -10,6 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">    
     <link rel="stylesheet" href="assets/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <title>Energie Génération</title>
 
   </head>
@@ -157,7 +158,13 @@
                   </div>
               </div> <br> <br>
               
-                <div class=" container" ><img class="w-100" src="./assets/image/image5.webp" alt=""></div>
+                <div class=" container" >
+                   <img class="w-100" src="./assets/image/image5.webp" alt=""> <br> <br>
+                    <div style="background-color: #232D84;" class="text-light ps-5 py-3">
+                      <h1 class="mt-3" >Business & HealthCare School</h1>
+                      <span><a href="./assets/bhs.php" class="text-light"> <i class="bi bi-arrow-right-circle pe-3"></i>Aller voir</a></span>
+                    </div>
+                </div>
       </section> <br> <br>
       <section>
           <div class="text-center " id="forma" ><h1>La formation entrepreneuriat <br> solaire</h1></div> 
@@ -166,7 +173,7 @@
       <section>
           <div class="container">
               <div class="row">
-                  <div class=" col-12 col-md-6"> <img src="./assets/image/image10.jpeg" class=" w-100" alt=""></div>
+                  <div class=" col-12 col-md-6"  > <img src="./assets/image/image10.jpeg" class=" w-100" style="border-bottom: solid 1rem #FAB032;" alt=""></div>
                   <div class="col-12 col-md-6">
                         <p class="m-3">  Parce que le solaire représente <span class="colA" >une véritable opportunité de création d'emplois pour les jeunes </span> tout en participant au développement socio-économique des zones rurales africaines notamment, Energy Generation a créé un programme de dix mois pour former puis accompagner des entrepreneurs du solaire. <br> <br>
                             Quel que soit votre niveau d'études actuel, la Formation Entrepreneuriat Solaire vous propose un <span class="colB" >programme sur mesure</span> pour vous garantir une formation répondant parfaitement à vos besoins et à vos projets d'avenir. <br>
