@@ -145,8 +145,13 @@
 .colA{
     color: #019FE3;
 }
+.bac{
+    background-color: #019FE3;
 
-
+}
+#carouselExampleControls .carousel-inner .carousel-item img{
+    height: 300px;
+}
 
 
 
