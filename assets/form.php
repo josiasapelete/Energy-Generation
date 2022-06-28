@@ -1,139 +1,91 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-    <title>Formulaire d'inscription</title>
-</head>
-<body>
-    <form action="" style="padding-bottom: 30px; padding-top: 30px">
-        <h1>POSTULEZ MAINTENANT !</h1>
+<section>
+                <div class="container my-5">
+                    <h1 class="text-center mb-4 pb-2 text-primary fw-bold">POSTULEZ MAINTENANT !</h1>
+                    <form>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Prénom</label>
+                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                        </div>
 
-        <hr>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Nom</label>
+                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                        </div>
 
-        <label for=""> Prénom et Nom </label>
-        <input type="text" placeholder="Prénom" required>
-        <input type="text" placeholder="Nom" required>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Genre</label>
+                            <select class="form-select" aria-label="Default select example">
+                                <option selected>Ouvrez ce menu pour choisir le genre</option>
+                                <option value="1">Homme</option>
+                                <option value="2">Femme</option>
+                            </select>
+                        </div>
 
-        <br>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Email address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                        </div>
 
-        <label for=""> Genre </label>
-        <select name="" id="">
-            <option value="">Veuillez selectionner</option>
-            <option value="">Homme</option>
-            <option value="">Femme</option>
-        </select>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Confirmer votre email</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                        </div>
 
-        <br>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Numéro de téléphone (avec indicatif)</label>
+                            <input type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                        </div>
 
-        <label for=""> Email </label>
-        <input type="email" placeholder="Prénom" required>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Votre pays</label>
+                            <select class="form-select" aria-label="Default select example">
+                                <option selected>Ouvrez ce menu pour choisir votre pays</option>
+                                <option value="1">Togo</option>
+                                <option value="2">Bénin</option>
+                                <option value="2">Ghana</option>
+                                <option value="2">Niger</option>
+                                <option value="2">Cameroun</option>
+                                <option value="2">Libreville</option>
+                                <option value="2">Côte-d'Ivoire</option>
+                                <option value="2">Mali</option>
+                            </select>
+                        </div>
 
-        <br>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Niveau d'études</label>
+                            <select class="form-select" aria-label="Default select example">
+                                <option selected>Ouvrez ce menu pour choisir votre niveau</option>
+                                <option value="1">Pas de diplôme supérieur</option>
+                                <option value="2">Bac</option>
+                                <option value="2">Bac +2</option>
+                                <option value="2">Bac +3</option>
+                                <option value="2">Bac +4/5</option>
+                                <option value="2">Doctorat</option>
+                            </select>
+                        </div>
 
-        <label for=""> Confirmer votre email </label>
-        <input type="email" placeholder="Entrer votre mail" required>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Thématique choisie</label>
+                            <select class="form-select" aria-label="Default select example">
+                                <option class="fs-lighter" selected>Ouvrez ce menu pour choisir le campus</option>
+                                <option value="2">Energy</option>
+                                <option value="2">Agri-Business</option>
+                            </select>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Campus préféré</label>
+                            <select class="form-select" aria-label="Default select example">
+                                <option selected>Ouvrez ce menu pour choisir le campus</option>
+                                <option value="2">Campus francophone - Lomé</option>
+                                <option value="2">Campus Anglophone - Accra</option>
+                            </select>
+                        </div>
 
-        <br>
-
-        <label for=""> Numéro de téléphone(avec indicatif) </label>
-        <input type="number" required>
-
-        <br>
-
-        <label for=""> Pays </label>
-        <select name="" id="">
-            <option value="">Veuillez selectionner</option>
-            <option value="">Homme</option>
-            <option value="">Femme</option>
-            <option value="">Femme</option>
-            <option value="">Femme</option>
-        </select>
-
-        <br>
-
-        <label for=""> Nuveau d'étude </label>
-        <select name="" id="">
-            <option value="">Veuillez Sélectionner</option>
-            <option value="">Pas de diplôme supérieur</option>
-            <option value="">Bac</option>
-            <option value="">Bac+2</option>
-            <option value="">Bac+3</option>
-            <option value="">Bac+4/5</option>
-            <option value="">Doctorat</option>
-        </select>
-
-        <br>
-
-        <label for=""> Campus préféré </label>
-        <select name="" id="">
-            <option value="">Campus francophone - Lomé</option>
-            <option value="">Campus Anglophone - Accra</option>
-        </select>
-
-        <br>
-
-        <Button>Envoyer</Button>
-    </form>
-
-    <form>
-        <div class="form-row">
-            <div class="form-group col-md-6">
-                <label for="inputEmail4">Prénom</label>
-                <input type="email" class="form-control" id="inputEmail4" placeholder="Saisie tom prénom">
-            </div>
-
-            <br>
-
-            <div class="form-group col-md-6">
-                <label for="inputEmail4">Nom</label>
-                <input type="email" class="form-control" id="inputEmail4" placeholder="Saisie ton nom">
-            </div>
-
-            <br>
-
-            <div class="form-group col-md-6">
-                <label for="inputPassword4">Password</label>
-                <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
-            </div>
-        </div>
-
-        <br>
-
-        <div class="form-group col-md-6">
-            <label for="inputAddress">Address</label>
-            <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-            <select class="custom-select mr-sm-2" id="inlineFormCustomSelect">
-                <option selected>Choose...</option>
-                <option value="1">One</option>
-                <option value="2">Two</option>
-                <option value="3">Three</option>
-            </select>
-        </div>
-
-        <br>
-
-        <div class="form-group col-md-6">
-            <label for="inputAddress2">Address 2</label>
-            <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
-        </div>
-
-        <br>
-
-        <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Preference</label>
-        <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
-            <option selected>Choose...</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
-        </select>
-
-        <br>
-
-        <button type="submit" class="btn btn-primary">Envoyer</button>
-    </form>
-
-</body>
-</html>
+                        <br>
+                        <button type="submit" class="btn btn-primary col-3">Envoyer</button>
+                    </form>
+                </div>
+            </section>
