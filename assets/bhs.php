@@ -78,6 +78,71 @@
                 </div>
 
             </section>
+            
+
+            <!--================== SECTION devenir entrepreneur ==================-->
+            <section class="py-4" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
+                <div class="container text-center text-light pb-3">
+                    <h2 class="fw-bold">DEVIENS ENTREPRENEUR.E du secteur de la SANTÉ et du BIEN-ETRE grâce à notre programme 3 en 1 unique en Afrique</h2>
+                    </div>
+                </div>
+                <div class="container text-light">
+                    <div class="row">
+                        <div class="col-12 col-md-2">
+                            <h1 class="bg-primary pt-5 text-center" style="height: 200px; font-size: 5rem; border-radius: 0 0 50px 0;">01</h1>
+                        </div>
+
+                        <!--================== INNOVATION ==================-->
+                        <div class="col-12 col-md-10">
+                            <div class="container py-2" style="background-color: #EB4F1C;">
+                                <h1 class="fw-bold">INNOVATION</h1>
+                                Tu vas pouvoir te familiariser avec le développement de solutions techniques et technologiques au sein de notre
+                                makerspace et créer ton propre produit.
+                                <br>
+                                <br>
+                                Notre programme unique, basé sur la
+                                théorie du Design Thinking du MIT, va te permettre de développer ton "Minimum Viable Product" d’un point de vue technique (prototype) et commercial (business model).
+                            </div>
+
+                            <br>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 col-md-2">
+                            <h1 class="bg-primary pt-5 text-center" style="height: 200px; font-size: 5rem; border-radius: 0 0 50px 0;">02</h1>
+                        </div>
+
+                        <!--================== INCUBATION ==================-->
+                        <div class="col-12 col-md-10">
+                            <div class="container py-2" style="background-color: #EB4F1C;">
+                                <h1 class="fw-bold">INCUBATION</h1>
+                                On t'accompagne pas à pas dans la création de ta start-up dans le secteur de l'énergie, de la santé ou de l'agribusiness, de l'idée jusqu'au lancement de ton produit sur le marché.
+                                De plus, en nous rejoignant tu bénéficies d'une opportunité d'obtenir un financement conçu spécifiquement pour accompagner l'amorçage et la commercialisation à
+                                grande échelle de ton projet à travers l'Energy Generation Seed Fund.
+                            </div>
+                            
+                            <br>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 col-md-2">
+                            <h1 class="bg-primary pt-5 text-center" style="height: 200px; font-size: 5rem; border-radius: 0 0 50px 0;">03</h1>
+                        </div>
+
+                        <!--================== FORMATION ==================-->
+                        <div class="col-12 col-md-10">
+                            <div class="container py-2" style="background-color: #EB4F1C;">
+                                <h1 class="fw-bold">FORMATION</h1>
+                                On t'accompagne pas à pas dans la création de ta start-up dans le secteur de l'énergie, de la santé ou de l'agribusiness, de l'idée jusqu'au lancement de ton produit sur le marché.
+                                De plus, en nous rejoignant tu bénéficies d'une opportunité d'obtenir un financement conçu spécifiquement pour accompagner l'amorçage et la commercialisation à
+                                grande échelle de ton projet à travers l'Energy Generation Seed Fund.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
         </main>
 
