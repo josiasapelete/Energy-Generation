@@ -22,25 +22,20 @@
                 <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="../index.php">Acceuil</a>
                 </li>
-                <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#"></a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#"></a>
-                </li>
+                
                 <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Nos programmes
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="assets/bhs.php">Business & HealthCare School</a></li>
+                    <li><a class="dropdown-item" href="bhs.php">Business & HealthCare School</a></li>
                 </ul>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="assets/space.php">Energie Space</a>
+                <a class="nav-link" aria-current="page" href="space.php">Energie Space</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="assets/blog.php">Blog</a>
+                <a class="nav-link" aria-current="page" href="blog.php">Blog</a>
                 </li>
                 
                 
