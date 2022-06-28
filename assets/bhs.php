@@ -11,6 +11,8 @@
         <!-- CSS only -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
         <!-- Link de la police d'écriture poppins -->
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
@@ -333,6 +335,105 @@
                 </div>
             </section>
 
+            <!--================== SECTION connaître la business school ==================-->    
+            <section style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;" class="py-5">
+                <div class="container text-center text-light pb-5">
+                    <h2 class="fw-bold pb-3">Postulez à la <span style="color: #EB4F1C;">
+                        Business & Healthcare School</span>
+                    </h2>
+
+                    <h6 class="fw-light">
+                        Quel que soit votre niveau d'études actuel, la Business & Healthcare School vous propose un programme de formation adapté et conçu pour vous accompagner au niveau supérieur.
+                        <br> <br>
+                        Nos programmes sont dispensés en français sur notre campus à Lomé, Togo et en anglais sur notre campus à Accra, Ghana.
+                    </h6>
+                </div>
+                
+                <!-- Pré-inscription -->
+                <div class="container">
+                    <div class="text-light col-md-4 text-center">
+                        <h2 style="border-radius: 0 0 20px 0;" class="bg-primary fw-bold">1- Pré-inscription</h2>
+                    </div>
+                    <div class="container text-light col-12 py-3" style="background-color: #EB4F1C;">
+                        <h1 class="fw-bold fs-2">Intitulé:</h1>
+                        <h5 class="fw-light">Apprenons à nous connaitre !</h5>
+                        <div class="container">
+                            <h5>
+                                <br>
+                                Remplissez le formulaire de pré-inscription pour recevoir plus d'informations sur le programme qui vous convient.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <!-- Candidature -->
+                <div class="container">
+                    <div class="text-light col-md-4 text-center">
+                        <h2 style="border-radius: 0 0 20px 0;" class="bg-primary fw-bold">2- Candidature</h2>
+                    </div>
+                    <div class="container text-light col-12 py-3" style="background-color: #EB4F1C;">
+                        <h1 class="fw-bold fs-2">Intitulé:</h1>
+                        <h5 class="fw-light">Le dossier de candidature est composé de :</h5>
+                        <div class="container">
+                            <h5> 
+                                <br>
+                                1. Votre Curriculum Vitae
+                                <br>
+                                <br>
+                                2. Une copie de votre dernier diplôme obtenu et vos derniers relevés de notes
+                                <br>
+                                <br>
+                                3. Les informations d’une personne pouvant faire recommendation vous concernant
+                                <br>
+                                <br>
+                                4. De courts essais de réflexion
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <br>
+
+                <!-- Sélection -->
+                <div class="container">
+                    <div class="text-light col-md-4 text-center">
+                        <h2 style="border-radius: 0 0 20px 0;" class="bg-primary fw-bold">3- Sélection</h2>
+                    </div>
+                    <div class="container text-light col-12 py-3" style="background-color: #EB4F1C;">
+                        <h1 class="fw-bold fs-2">Intitulé:</h1>
+                        <h5 class="fw-light">Après étude des dossiers de candidature, les candidats pré-sélectionnés seront invités pour une seconde phase de sélection au cours de laquelle ils devront :</h5>
+                        <div class="container">
+                            <h5> 
+                                <br>
+                                1. Réaliser une courte video de présentation
+                                <br>
+                                <br>
+                                2. Passer un test de logique en ligne.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <br>
+
+                <!-- Inscription -->
+                <div class="container">
+                    <div class="text-light col-md-4 text-center">
+                        <h2 style="border-radius: 0 0 20px 0;" class="bg-primary fw-bold">4- Inscription</h2>
+                    </div>
+                    <div class="container text-light col-12 py-3" style="background-color: #EB4F1C;">
+                        <h1 class="fw-bold fs-2">Intitulé:</h1>
+                        <div class="container">
+                            <h5>
+                                Les candidats sélectionnés à l'issue de ce processus de sélection seront invités à compléter les procédures d'inscription.
+                                La prochaine promotion débutera en <span class="fw-bolder">28 Février 2022</span>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </main>
 
         <footer>
