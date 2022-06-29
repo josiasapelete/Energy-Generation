@@ -294,11 +294,11 @@
       
                       <div class=" col-12 mt-5 mt-md-0 col-md-6">
                       <img class="w-100 pb-4" src="./assets/image/Logo.webp" alt="">
-                      <ul>
-                        <li>Accueil</li> <br>
-                        <li>Business Healthcare school</li> <br>
-                        <li>Energy Space</li> <br>
-                        <li>Blog</li>
+                      <ul id="lien">
+                        <li><a style="color: white; text-decoration:none;" href="index.php">Accueil</a></li> <br>
+                        <li><a style="color: white; text-decoration:none;" href="assets/bhs.php">Business Healthcare school</a></li> <br>
+                        <li><a style="color: white; text-decoration:none;" href="assets/space.php">Energy Space</a></li> <br>
+                        <li><a style="color: white; text-decoration:none;" href="assets/blog.php">Blog</a></li>
                       </ul>
                     </div>
                   </div>
