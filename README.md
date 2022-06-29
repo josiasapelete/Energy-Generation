@@ -28,18 +28,19 @@ APELETE             Page Blog et le back-end
 Sylvio              La maquette , la page programme et la page d'inscription 
 
 Nous avons eu à :
--étudier le site,
-- Voir les couleurs qu'on va utiliser 
--Partager les tâches
--Choisir les technologies
--Choisir l'hébergeur
+*étudier le site,
+ *Voir les couleurs qu'on va utiliser 
+*Partager les tâches
+*Choisir les technologies
+*Choisir l'hébergeur
 
 
 Choix des technologies
 Front-end:
--HTML
--CSS
--BOOTSRAP
--PHP
--MYSQL
+*HTML
+*CSS
+*BOOTSRAP
+*PHP
+*MYSQL
+le lien vers le site [http://energy-generation.epizy.com/index.php](url)
 
