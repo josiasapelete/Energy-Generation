@@ -86,10 +86,11 @@
       </div>
 
     </section>
+
+
     <section class="">
-      
-      <div class="container-fluid py-5" id="footer">
-        <div class="container">
+      <div class="container-fluid" id="footer">
+        <div class="container pt-5">
           <div class="row gx-md-5">
 
             <!-- =============== Inclusion de la page newsletter =================-->
@@ -98,24 +99,23 @@
             </div>
 
             <div class=" col-12 mt-5 mt-md-0 col-md-6">
-              <img id="logo" src="image/Logo.webp" alt="">
+              <img class="w-100 pb-4" src="image/Logo.webp" alt="">
               <ul>
                 <li>Accueil</li> <br>
                 <li>Business Healthcare school</li> <br>
-                <li>Energy Space</li>
+                <li>Energy Space</li> <br>
                 <li>Blog</li>
               </ul>
             </div>
           </div>
         </div>
+
+        <!-- ============== SECTION copyright ==============-->
+        <div class="container">
+          <hr>
+          <p class="text-center m-0"> <i class="fa-regular fa-copyright"></i> 2020 - Energie Generation - All rights reserved</p>
+        </div>
       </div>
-    </section>
-
-    <!-- ============== SECTION copyright ==============-->
-    <section  class="end">
-      <p>2020 - Energie Generation - All rights reserved</p>
-    </section>
-
     </section>
   </footer>
 </body>

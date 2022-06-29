@@ -15,7 +15,7 @@
             <a class="w-30  navbar-brand" href="#"><img class="logo" src="image/Logo.webp" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 offset-md-6 mb-lg-auto ">
@@ -43,11 +43,6 @@
                 <a class="nav-link" aria-current="page" href="mentor.php">Devenir Mentor</a>
                 </li>
             </ul>
-            <div class="lng d-flex">
-                <img src="./image/fr.jpeg" alt="" class="fr">
-                <img src="./image/en.jpeg" alt="" class="en">
-            </div>
-            </div>
             
         </div>
         
