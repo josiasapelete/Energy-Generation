@@ -29,8 +29,8 @@
             if(isset($_POST['submit'])){
                 
                 $name = $_POST["nom"];
-        $email = $_POST["Email"];
-        $lang = filter_input(INPUT_POST, "lang", FILTER_VALIDATE_INT);
+                $email = $_POST["Email"];
+                $lang = filter_input(INPUT_POST, "lang", FILTER_VALIDATE_INT);
 
         // requete pour inserer les donné
         $sql = "INSERT INTO newsletter (nom,email,lang)

@@ -54,8 +54,9 @@
                     <h1 class="text-light" >PARTICIPEZ AU SUCCÈS DE NOS ENTREPRENEUR.E.S</h1>
               </div>
                 <div>
-                    <p class=" p-5 fs-5 " >Chez Energy Generation, un mentor apporte un regard critique, challenge et donne des conseils bienveillants à un.e entrepreneur.e ou une équipe d’entrepreneur.e.s sur leur projet d’entreprise. Il leur transmet de façon proactive son expérience et son savoir-être de dirigeant.e ou d’expert.e. Il peut être amené, dans la mesure du possible, à mettre en œuvre les moyens dont il dispose (contacts, réseau, ressources…) pour accompagner au mieux le développement de la start up. Le mentor n’a en aucun cas un pouvoir de décision dans la direction de la start up. L’activité de mentorat n’est pas rémunérée.
-​                    </p>
+                    <p class=" p-5 fs-5 " >
+                        Chez Energy Generation, un mentor apporte un regard critique, challenge et donne des conseils bienveillants à un.e entrepreneur.e ou une équipe d’entrepreneur.e.s sur leur projet d’entreprise. Il leur transmet de façon proactive son expérience et son savoir-être de dirigeant.e ou d’expert.e. Il peut être amené, dans la mesure du possible, à mettre en œuvre les moyens dont il dispose (contacts, réseau, ressources…) pour accompagner au mieux le développement de la start up. Le mentor n’a en aucun cas un pouvoir de décision dans la direction de la start up. L’activité de mentorat n’est pas rémunérée.
+                    </p>
                 </div>
                 <div class="text-center mb-0 bac">
                     <h1 class="text-light" >EN SAVOIR PLUS SUR LE ROLE DE MENTOR</h1>
@@ -88,7 +89,6 @@
                     <div class="carousel-item" data-bs-interval="2000">
                         <img src="image/Cap2.png" class="d-block w-100" alt="...">
                     </div>
-
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
