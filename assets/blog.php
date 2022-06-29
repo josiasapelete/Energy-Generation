@@ -32,8 +32,8 @@
                 <p>Nos articles</p>
             </div>
             <div class="col-12 col-md-6">
-                <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Search"  name="search" aria-label="Search">
+                <form class="d-flex" method="post" role="search">
+                    <input class="  form-control me-2" type="search" placeholder="Search"  name="search" aria-label="Search">
                     <button class="btn btn-outline-success" type="submit" name="searchBtn">Search</button>
                    
                 </form>
@@ -46,7 +46,7 @@
          <?php
            
 
-           if (isset($_POST['searchBt'])){
+           if (isset($_POST['searchBtn'])){
                $search= $_POST['search'];
                $reqSelect= "select * from articles where titre like '%$search%' ";
            } else {
