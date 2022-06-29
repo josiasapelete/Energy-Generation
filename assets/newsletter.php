@@ -22,11 +22,12 @@
         <input type="radio" value="2" name="lang" id=""> <span class="input-group">Je préfère recevoir les informations en anglais</span>
 
         <br>
-        <input  class="btn btn-warning" type="submit" value="send">
+        <input name="submit" class="btn btn-warning" type="submit" value="send">
         <!-- <button type="button" name="send" class="btn btn-warning">Envoyer</button> -->
         <?php
         // varible pour recuperer les entrées 
             if(isset($_POST['submit'])){
+                
                 $name = $_POST["nom"];
         $email = $_POST["Email"];
         $lang = filter_input(INPUT_POST, "lang", FILTER_VALIDATE_INT);
@@ -43,7 +44,6 @@
         $name,$email,$lang); 
         mysqli_stmt_execute($stmt);
         echo "Informations enrégistrées";
-
 
             }
         ?>
