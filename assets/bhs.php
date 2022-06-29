@@ -42,7 +42,7 @@
                     <h3 class="fs-4">Business & HealthCare School</h3>
                     <h4 class="fs-5">International bachelor and NBA programs</h4>
                     <hr class="h-25">
-                    <button type="button" class="btn btn-info text-light fw-normal"> Postulez maintenant</button>
+                    <button type="button" class="btn btn-info fw-normal"> <a href="#form" class="text-light text-decoration-none"> Postulez maintenant <i class="bi bi-arrow-down-circle ps-2"></i> </a></button>
                 </div>
             </section>
 
@@ -83,9 +83,9 @@
 
 
             <!--================== SECTION devenir entrepreneur ==================-->
-            <section class="py-4" style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
+            <section class="" style="background-color: #232D84; padding: 100px 0 100px 0; border-bottom: 10px #EB4F1C solid;">
                 <div class="container text-center text-light pb-3">
-                    <h2 class="fw-bold">DEVIENS ENTREPRENEUR.E du secteur de la SANTÉ et du BIEN-ETRE grâce à notre programme 3 en 1 unique en Afrique</h2>
+                    <h2 class="fw-bold pb-4">DEVIENS ENTREPRENEUR.E du secteur de la SANTÉ et du BIEN-ETRE grâce à notre programme 3 en 1 unique en Afrique</h2>
                     </div>
                 </div>
                 <div class="container text-light">
@@ -150,12 +150,12 @@
             <!--================== SECTION la business school ==================-->    
             <section style="background-color: #232D84; border-bottom: 10px #EB4F1C solid;">
                 <img src="./image/sante.jpg" alt="Photo santé" style="height: 500px;" class="w-100 pb-4">
-                <div class="container text-center text-light pb-3">
+                <div style="padding: 80px 0 0 0;" class="container text-center text-light pb-3">
                     <h2 class="fw-bold pb-3">La <span style="color: #EB4F1C;">
                         Business & Healthcare School</span> vous forme pour entreprendre dans le domaine de la santé et du bien-être en Afrique.
                     </h2>
 
-                    <h6 class="fw-light">
+                    <h6 class="fw-light pb-5">
                         Quel que soit votre niveau d'études actuel, la Business & Healthcare School vous propose un programme de formation adapté et conçu pour vous accompagner au niveau supérieur.
                         <br> <br>
                         Nos programmes sont dispensés en français sur notre campus à Lomé, Togo et en anglais sur notre campus à Accra, Ghana.
@@ -171,7 +171,7 @@
                         <h1 class="fw-bold fs-2">Intitulé de la certification :</h1>
                         <a href="" class="text-white"><h5> Gestionnaire Administration des Ventes  (1)</h5></a>
                         <div class="text-light col-md-3">
-                            <button type="button" class="btn btn-light mt-3">Brochure Bachelor II</button>
+                            <button type="button" class="btn btn-light mt-3">Brochure Bachelor II<i class="bi bi-arrow-right-circle ms-2"></i></button>
                         </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
                         <h1 class="fw-bold fs-2">Intitulé de la certification :</h1>
                         <a href="" class="text-white"><h5> Gestionnaire Administration des Ventes  (1)</h5></a>
                         <div class="text-light col-md-3">
-                            <button type="button" class="btn btn-light mt-3">Brochure Bachelor III</button>
+                            <button type="button" class="btn btn-light mt-3">Brochure Bachelor III <i class="bi bi-arrow-right-circle ms-2"></i></button>
                         </div>
                     </div>
                 </div>
@@ -203,11 +203,11 @@
                         <h1 class="fw-bold fs-2">Intitulé de la certification :</h1>
                         <a href="" class="text-white"><h5> Gestionnaire Administration des Ventes  (1)</h5></a>
                         <div class="text-light col-md-3">
-                            <button type="button" class="btn btn-light mt-3">Brochure MBA</button>
+                            <button type="button" class="btn btn-light mt-3">Brochure MBA <i class="bi bi-arrow-right-circle ms-2"></i></button>
                         </div>
                     </div>
 
-                    <div class="row py-5 text-light">
+                    <div style="padding: 0 0 80px 0;" class="row py-5 text-light">
                         <h6 class="text-center fw-lighter fs-6">
                             (1) Certification enregistrée au Répertoire National des Certifications Professionnelles (RNCP) par Arrêté du 23 février 2017 au Journal Officiel du 03 mars 2017
                             (2) Certification enregistrée au Répertoire National des Certifications Professionnelles (RNCP) par Arrêté du 07 juillet 2017 au Journal Officiel du 19 juillet 2017
@@ -254,81 +254,71 @@
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/1.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Epiphanie AGBEVAN Responsable Academique</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/g-epiphanie-agbevan-3659228b/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/2.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Ismael TANKO Representant National</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/ismael-tanko-25099625/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/3.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Joans FOLY Responsable Recrutement</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="#" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/4.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Lucie BEAURAIN responsable entrepreneuriat</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/lucie-beaurain/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/5.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Matteo CARAYOL Responsable Innovation</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/mcarayol/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/6.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Odjouman ALLAGBE Responsable Communication</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/odjoumanallagbe/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/7.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Pascal ATEYO Responsable Technique</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/pascal-ateyo/" traget="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/8.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Pascaline HOUNOU Responsable administrative et Comptable</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/pascaline-hounou-29687415b/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/9.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
-                                <p class="card-text">PAul CAIRNS Directeur Technique</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <p class="card-text">Paul CAIRNS Directeur Technique</p>
+                                <a href="https://www.linkedin.com/in/paul-ec-cairns/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                         <div class="card col-md-3" style="width: 18rem;">
                             <img src="./image/team/10.webp" class="card-img-top py-2" alt="..." style="border-radius: 30px;" style="border-radius: 30px;">
                             <div class="card-body">
-                                <h5 class="card-title">Nom</h5>
                                 <p class="card-text">Staff EG Astria fataki Fondatrice Presidente</p>
-                                <a href="#" class="btn btn-primary">Voir profil</a>
+                                <a href="https://www.linkedin.com/in/astriafataki/" target="_blank" class="btn btn-primary">Voir profil <i class="bi bi-linkedin ps-2"></i></a>
                             </div>
                         </div>
                     </div>
@@ -517,7 +507,7 @@
 
 
             <!-- ================== SECTION formulaire inscriptiuon ===================-->
-            
+            <div id="form"></div>
             <?php
                 include('form.php')
             ?>
