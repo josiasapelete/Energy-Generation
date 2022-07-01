@@ -6,17 +6,17 @@
         <form method="post">
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Prénom</label>
-                <input type="text" name="prenom" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <input type="text" name="prenom" placeholder="Votre Prénom" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
             </div>
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Nom</label>
-                <input type="text" name="nom" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <input type="text" name="nom" placeholder="votre Nom" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
             </div>
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Genre</label>
-                <select class="form-select" name="genre" aria-label="Default select example">
+                <select class="form-select" required name="genre" aria-label="Default select example">
                     <option selected>Ouvrez ce menu pour choisir le genre</option>
                     <option value="1">Homme</option>
                     <option value="2">Femme</option>
@@ -25,25 +25,24 @@
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Email address</label>
-                <input type="email" name="mail" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <input type="email" name="mail" placeholder="example@gmail.com" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
             </div>
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Confirmer votre email</label>
-                <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <input type="email" name="email" placeholder="example@gmail.com" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
             </div>
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Numéro de téléphone (avec indicatif)</label>
-                <input type="number" name="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <input type="number" name="number" placeholder="+228 99999999" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
             </div>
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Votre pays</label>
-                <select class="form-select" name="pays" aria-label="Default select example">
-                    <option selected>Ouvrez ce menu pour choisir votre pays</option>
+                <select class="form-select" name="pays"  required aria-label="Default select example">
                     <option value="1">Togo</option>
                     <option value="2">Bénin</option>
                     <option value="2">Ghana</option>
@@ -57,8 +56,7 @@
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Niveau d'études</label>
-                <select class="form-select" name="diplome" aria-label="Default select example">
-                    <option selected>Ouvrez ce menu pour choisir votre niveau</option>
+                <select class="form-select" name="diplome" required aria-label="Default select example">
                     <option value="1">Pas de diplôme supérieur</option>
                     <option value="2">Bac</option>
                     <option value="2">Bac +2</option>
@@ -70,8 +68,7 @@
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Thématique choisie</label>
-                <select class="form-select" name="theme" aria-label="Default select example">
-                    <option class="fs-lighter" selected>Ouvrez ce menu pour choisir la Thématique</option>
+                <select class="form-select" name="theme" required aria-label="Default select example">
                     <option value="2">Energy</option>
                     <option value="2">Agri-Business</option>
                 </select>
@@ -79,8 +76,7 @@
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label fw-bold text-primary">Campus préféré</label>
-                <select class="form-select" name="campus" aria-label="Default select example">
-                    <option selected>Ouvrez ce menu pour choisir le campus</option>
+                <select class="form-select" name="campus" required aria-label="Default select example">
                     <option value="2">Campus francophone - Lomé</option>
                     <option value="2">Campus Anglophone - Accra</option>
                 </select>
